@@ -1,0 +1,35 @@
+{
+  "$class": "org.example.mietvertrag01.MyContract",
+  "contractId": "e96ee4e9-a3b6-44e9-96c5-b3160f249877",
+
+  "address": {
+    "$class": "org.accordproject.address.PostalAddress",
+    "streetAddress": "Boeblinger Strasse 10",
+    "postalCode": "Boeblingen",
+    "postOfficeBoxNumber": "77777",
+    "addressRegion": "Bonn",
+    "addressLocality": "Bonn",
+    "addressCountry": "Germany"
+  },
+  "mieter": "Max",
+  "erstes_datum": "2020-08-20T00:00:00.000+02:00",
+  "zweites_datum": "2021-08-20T00:00:00.000+02:00",
+  "preis": {
+    "$class": "org.accordproject.money.MonetaryAmount",
+    "doubleValue": 400,
+    "currencyCode": "EUR"
+  },
+  "pleite": true,
+  "erspartes": true,
+  "paymentClause":{
+    "$class":"org.example.mietvertrag01.PaymentClause",
+    "clauseId": "3c72cd74-cbcf-49f7-b7f0-314501961b76",
+    "paymethod": "überweisen" ,
+    "amountText": "vierhundert",
+    "amount":{
+      "$class": "org.accordproject.money.MonetaryAmount",
+      "doubleValue": 400,
+      "currencyCode": "EUR"
+    } 
+  }
+}

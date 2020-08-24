@@ -1,0 +1,50 @@
+namespace org.example.mietvertrag01
+
+import org.accordproject.cicero.contract.* from https://models.accordproject.org/cicero/contract.cto
+import org.accordproject.cicero.runtime.* from https://models.accordproject.org/cicero/runtime.cto
+import org.accordproject.money.MonetaryAmount from https://models.accordproject.org/money.cto
+import org.accordproject.organization.Organization from https://models.accordproject.org/organization.cto
+import org.accordproject.address.PostalAddress from https://models.accordproject.org/address.cto
+
+transaction anforderung extends Request {
+  o String pay
+}
+
+transaction antwort extends Response {
+  o String output
+}
+
+
+/**
+ * The model for the contract
+ */
+asset MyContract extends AccordContract {
+  /**
+   * The name for the contract
+   */
+  //o vermieter
+  //o String name
+  //o String nachname
+  o PostalAddress address //"street" "postal" "box number" "address Region" "address Locality" "adressCountry"
+  o String mieter
+  o DateTime erstes_datum
+  o DateTime zweites_datum
+  o MonetaryAmount preis //currencys in EUR or USD not € 
+  o Boolean pleite 
+  o Boolean erspartes 
+  //o String paymethod
+  o PaymentClause paymentClause 
+
+
+}
+/**asset vermieter extends AccordClause{
+  o String name 
+  o String nachname
+}
+*/
+
+asset PaymentClause extends AccordClause{
+  o String amountText
+  o MonetaryAmount amount 
+  o String paymethod
+}

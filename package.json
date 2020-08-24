@@ -1,0 +1,19 @@
+{
+    "name": "mietvertrag",
+    "version": "0.0.0",
+    "description": "Name of the person to greet: \"Dan\".\nThank you!",
+    "author": "Hendrik Weisgerber",
+    "accordproject": {
+        "template": "contract",
+        "cicero": "^0.20.3",
+        "runtime": "ergo"
+    },
+    "devDependencies": {
+        "cucumber": "^5.1.0",
+        "chai": "4.2.0",
+        "@accordproject/cicero-cli": "^0.20.3"
+    },
+    "scripts": {
+        "test": "cucumber-js test -r .cucumber.js"
+    }
+}
