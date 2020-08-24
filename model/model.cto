@@ -14,6 +14,12 @@ transaction antwort extends Response {
   o String output
 }
 
+participant RentalParty extends AccordParty {
+  o String nachname 
+}
+
+
+
 
 /**
  * The model for the contract
@@ -22,15 +28,16 @@ asset MyContract extends AccordContract {
   /**
    * The name for the contract
    */
-  //o vermieter
-  //o String name
+  o RentalParty vermieter
+  o RentalParty mieter
+   //o String name
   //o String nachname
   o PostalAddress address //"street" "postal" "box number" "address Region" "address Locality" "adressCountry"
-  o String mieter
+ 
   o DateTime erstes_datum
   o DateTime zweites_datum
   o MonetaryAmount preis //currencys in EUR or USD not € 
-  o Boolean pleite 
+  o Boolean pleite
   o Boolean erspartes 
   //o String paymethod
   o PaymentClause paymentClause 

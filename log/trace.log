@@ -89142,3 +89142,2710 @@ MMMM -> "January" {% (d) => {return 0;}%} |
 9:55:47 - [34mdebug[39m: loadFilesContents
 9:55:48 - [34mdebug[39m: Result of parsing: undefined
 9:55:48 - [31merror[39m: Parsing clause text returned a null AST. This may mean the text is valid, but not complete.
+11:26:59 - [32minfo[39m: Using current directory as template folder
+11:26:59 - [32minfo[39m: Loading a default text/sample.md file.
+11:26:59 - [34mdebug[39m: loadFileContents
+11:26:59 - [34mdebug[39m: loadFileBuffer
+11:26:59 - [34mdebug[39m: loadFileContents
+11:26:59 - [34mdebug[39m: loadFileContents
+11:26:59 - [34mdebug[39m: fromDirectory
+11:26:59 - [34mdebug[39m: loadFilesContents
+11:26:59 - [34mdebug[39m: loadFilesContents
+11:26:59 - [34mdebug[39m: loadFilesContents
+11:26:59 - [34mdebug[39m: loadFilesContents
+11:26:59 - [34mdebug[39m: loadFilesContents
+11:26:59 - [34mdebug[39m: loadFileContents
+11:26:59 - [34mdebug[39m: loadFilesContents
+11:26:59 - [34mdebug[39m: fromDirectory
+11:26:59 - [34mdebug[39m: loadFilesContents
+11:26:59 - [34mdebug[39m: loadFilesContents
+11:26:59 - [34mdebug[39m: loadFilesContents
+11:26:59 - [34mdebug[39m: loadFilesContents
+11:26:59 - [34mdebug[39m: loadFilesContents
+11:26:59 - [34mdebug[39m: loadFileContents
+11:26:59 - [34mdebug[39m: loadFileContents
+11:26:59 - [34mdebug[39m: loadFileContents
+11:26:59 - [34mdebug[39m: loadFileContents
+11:26:59 - [34mdebug[39m: loadFileContents
+11:26:59 - [34mdebug[39m: loadFileContents
+11:26:59 - [34mdebug[39m: loadFileContents
+11:26:59 - [34mdebug[39m: loadFilesContents
+11:27:04 - [34mdebug[39m: fromDirectory
+11:27:04 - [34mdebug[39m: loadFileContents
+11:27:04 - [34mdebug[39m: fromDirectory
+11:27:04 - [34mdebug[39m: fromDirectory
+11:27:04 - [34mdebug[39m: loadFilesContents
+11:27:04 - [34mdebug[39m: loadFilesContents
+11:27:04 - [34mdebug[39m: loadFilesContents
+11:27:04 - [34mdebug[39m: loadFilesContents
+11:27:04 - [34mdebug[39m: loadFilesContents
+11:27:04 - [34mdebug[39m: loadFileContents
+11:27:04 - [34mdebug[39m: loadFilesContents
+11:27:05 - [31merror[39m: Parse error at line 5 column 1
+{{"mieter kann nicht zahlen"}}
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Expected: A computed variable {{ ... }}
+ParseException: Parse error at line 5 column 1
+{{"mieter kann nicht zahlen"}}
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Expected: A computed variable {{ ... }}
+    at _throwParseException (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\errorutil.js:88:11)
+    at TemplateMarkTransformer.dataFromCiceroMark (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TemplateMarkTransformer.js:124:13)
+    at Clause.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateinstance.js:132:42)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\lib\commands.js:170:24
+11:28:24 - [32minfo[39m: Using current directory as template folder
+11:28:24 - [32minfo[39m: Loading a default text/sample.md file.
+11:28:24 - [34mdebug[39m: loadFileContents
+11:28:24 - [34mdebug[39m: loadFileBuffer
+11:28:24 - [34mdebug[39m: loadFileContents
+11:28:24 - [34mdebug[39m: loadFileContents
+11:28:24 - [34mdebug[39m: fromDirectory
+11:28:24 - [34mdebug[39m: loadFilesContents
+11:28:24 - [34mdebug[39m: loadFilesContents
+11:28:24 - [34mdebug[39m: loadFilesContents
+11:28:24 - [34mdebug[39m: loadFilesContents
+11:28:24 - [34mdebug[39m: loadFilesContents
+11:28:24 - [34mdebug[39m: loadFilesContents
+11:28:24 - [34mdebug[39m: loadFileContents
+11:28:24 - [34mdebug[39m: fromDirectory
+11:28:24 - [34mdebug[39m: loadFilesContents
+11:28:24 - [34mdebug[39m: loadFilesContents
+11:28:24 - [34mdebug[39m: loadFilesContents
+11:28:24 - [34mdebug[39m: loadFilesContents
+11:28:24 - [34mdebug[39m: loadFilesContents
+11:28:24 - [34mdebug[39m: loadFileContents
+11:28:24 - [34mdebug[39m: loadFileContents
+11:28:24 - [34mdebug[39m: loadFileContents
+11:28:24 - [34mdebug[39m: loadFileContents
+11:28:24 - [34mdebug[39m: loadFileContents
+11:28:24 - [34mdebug[39m: loadFileContents
+11:28:24 - [34mdebug[39m: loadFileContents
+11:28:24 - [34mdebug[39m: loadFilesContents
+11:28:29 - [34mdebug[39m: fromDirectory
+11:28:29 - [34mdebug[39m: loadFileContents
+11:28:29 - [34mdebug[39m: fromDirectory
+11:28:29 - [34mdebug[39m: fromDirectory
+11:28:29 - [34mdebug[39m: loadFilesContents
+11:28:29 - [34mdebug[39m: loadFilesContents
+11:28:29 - [34mdebug[39m: loadFilesContents
+11:28:29 - [34mdebug[39m: loadFilesContents
+11:28:29 - [34mdebug[39m: loadFilesContents
+11:28:29 - [34mdebug[39m: loadFileContents
+11:28:29 - [34mdebug[39m: loadFilesContents
+11:28:30 - [31merror[39m: Parse error at line 5 column 1
+"mieter kann nicht zahlen"
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Expected: A computed variable {{ ... }}
+ParseException: Parse error at line 5 column 1
+"mieter kann nicht zahlen"
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Expected: A computed variable {{ ... }}
+    at _throwParseException (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\errorutil.js:88:11)
+    at TemplateMarkTransformer.dataFromCiceroMark (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TemplateMarkTransformer.js:124:13)
+    at Clause.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateinstance.js:132:42)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\lib\commands.js:170:24
+11:34:30 - [32minfo[39m: Using current directory as template folder
+11:34:30 - [32minfo[39m: Loading a default text/sample.md file.
+11:34:30 - [34mdebug[39m: loadFileContents
+11:34:30 - [34mdebug[39m: loadFileBuffer
+11:34:30 - [34mdebug[39m: loadFileContents
+11:34:30 - [34mdebug[39m: loadFileContents
+11:34:30 - [34mdebug[39m: fromDirectory
+11:34:30 - [34mdebug[39m: loadFilesContents
+11:34:30 - [34mdebug[39m: loadFilesContents
+11:34:30 - [34mdebug[39m: loadFilesContents
+11:34:30 - [34mdebug[39m: loadFilesContents
+11:34:30 - [34mdebug[39m: loadFilesContents
+11:34:30 - [34mdebug[39m: loadFilesContents
+11:34:30 - [34mdebug[39m: loadFileContents
+11:34:30 - [34mdebug[39m: fromDirectory
+11:34:30 - [34mdebug[39m: loadFilesContents
+11:34:30 - [34mdebug[39m: loadFilesContents
+11:34:30 - [34mdebug[39m: loadFilesContents
+11:34:30 - [34mdebug[39m: loadFilesContents
+11:34:30 - [34mdebug[39m: loadFilesContents
+11:34:30 - [34mdebug[39m: loadFileContents
+11:34:30 - [34mdebug[39m: loadFileContents
+11:34:30 - [34mdebug[39m: loadFileContents
+11:34:30 - [34mdebug[39m: loadFileContents
+11:34:30 - [34mdebug[39m: loadFileContents
+11:34:30 - [34mdebug[39m: loadFileContents
+11:34:30 - [34mdebug[39m: loadFileContents
+11:34:30 - [34mdebug[39m: loadFilesContents
+11:34:35 - [34mdebug[39m: fromDirectory
+11:34:35 - [34mdebug[39m: loadFileContents
+11:34:35 - [34mdebug[39m: fromDirectory
+11:34:35 - [34mdebug[39m: fromDirectory
+11:34:35 - [34mdebug[39m: loadFilesContents
+11:34:35 - [34mdebug[39m: loadFilesContents
+11:34:35 - [34mdebug[39m: loadFilesContents
+11:34:35 - [34mdebug[39m: loadFilesContents
+11:34:35 - [34mdebug[39m: loadFilesContents
+11:34:35 - [34mdebug[39m: loadFileContents
+11:34:35 - [34mdebug[39m: loadFilesContents
+11:34:37 - [31merror[39m: Parse error at line 5 column 1
+{{"mieter kann nicht zahlen"}}
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Expected: A computed variable {{ ... }}
+ParseException: Parse error at line 5 column 1
+{{"mieter kann nicht zahlen"}}
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Expected: A computed variable {{ ... }}
+    at _throwParseException (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\errorutil.js:88:11)
+    at TemplateMarkTransformer.dataFromCiceroMark (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TemplateMarkTransformer.js:124:13)
+    at Clause.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateinstance.js:132:42)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\lib\commands.js:170:24
+11:42:03 - [32minfo[39m: Using current directory as template folder
+11:42:03 - [32minfo[39m: Loading a default text/sample.md file.
+11:42:03 - [34mdebug[39m: loadFileContents
+11:42:03 - [34mdebug[39m: loadFileBuffer
+11:42:03 - [34mdebug[39m: loadFileContents
+11:42:03 - [34mdebug[39m: loadFileContents
+11:42:03 - [34mdebug[39m: fromDirectory
+11:42:03 - [34mdebug[39m: loadFilesContents
+11:42:03 - [34mdebug[39m: loadFilesContents
+11:42:03 - [34mdebug[39m: loadFilesContents
+11:42:03 - [34mdebug[39m: loadFilesContents
+11:42:03 - [34mdebug[39m: loadFilesContents
+11:42:03 - [34mdebug[39m: loadFilesContents
+11:42:03 - [34mdebug[39m: loadFileContents
+11:42:03 - [34mdebug[39m: fromDirectory
+11:42:03 - [34mdebug[39m: loadFilesContents
+11:42:03 - [34mdebug[39m: loadFilesContents
+11:42:03 - [34mdebug[39m: loadFilesContents
+11:42:03 - [34mdebug[39m: loadFilesContents
+11:42:03 - [34mdebug[39m: loadFilesContents
+11:42:03 - [34mdebug[39m: loadFileContents
+11:42:03 - [34mdebug[39m: loadFileContents
+11:42:03 - [34mdebug[39m: loadFileContents
+11:42:03 - [34mdebug[39m: loadFileContents
+11:42:03 - [34mdebug[39m: loadFileContents
+11:42:03 - [34mdebug[39m: loadFileContents
+11:42:03 - [34mdebug[39m: loadFileContents
+11:42:03 - [34mdebug[39m: loadFilesContents
+11:42:09 - [34mdebug[39m: fromDirectory
+11:42:09 - [34mdebug[39m: loadFileContents
+11:42:09 - [34mdebug[39m: fromDirectory
+11:42:09 - [34mdebug[39m: fromDirectory
+11:42:09 - [34mdebug[39m: loadFilesContents
+11:42:09 - [34mdebug[39m: loadFilesContents
+11:42:09 - [34mdebug[39m: loadFilesContents
+11:42:09 - [34mdebug[39m: loadFilesContents
+11:42:09 - [34mdebug[39m: loadFilesContents
+11:42:09 - [34mdebug[39m: loadFileContents
+11:42:09 - [34mdebug[39m: loadFilesContents
+11:42:10 - [31merror[39m: Parse error at line 6 column 1
+{{"mieter kann nicht zahlen"}}
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Expected: A computed variable {{ ... }}
+ParseException: Parse error at line 6 column 1
+{{"mieter kann nicht zahlen"}}
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Expected: A computed variable {{ ... }}
+    at _throwParseException (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\errorutil.js:88:11)
+    at TemplateMarkTransformer.dataFromCiceroMark (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TemplateMarkTransformer.js:124:13)
+    at Clause.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateinstance.js:132:42)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\lib\commands.js:170:24
+11:42:50 - [32minfo[39m: Using current directory as template folder
+11:42:50 - [32minfo[39m: Loading a default text/sample.md file.
+11:42:51 - [34mdebug[39m: loadFileContents
+11:42:51 - [34mdebug[39m: loadFileBuffer
+11:42:51 - [34mdebug[39m: loadFileContents
+11:42:51 - [34mdebug[39m: loadFileContents
+11:42:51 - [34mdebug[39m: fromDirectory
+11:42:51 - [34mdebug[39m: loadFilesContents
+11:42:51 - [34mdebug[39m: loadFilesContents
+11:42:51 - [34mdebug[39m: loadFilesContents
+11:42:51 - [34mdebug[39m: loadFilesContents
+11:42:51 - [34mdebug[39m: loadFilesContents
+11:42:51 - [34mdebug[39m: loadFilesContents
+11:42:51 - [34mdebug[39m: loadFileContents
+11:42:51 - [34mdebug[39m: fromDirectory
+11:42:51 - [34mdebug[39m: loadFilesContents
+11:42:51 - [34mdebug[39m: loadFilesContents
+11:42:51 - [34mdebug[39m: loadFilesContents
+11:42:51 - [34mdebug[39m: loadFilesContents
+11:42:51 - [34mdebug[39m: loadFilesContents
+11:42:51 - [34mdebug[39m: loadFileContents
+11:42:51 - [34mdebug[39m: loadFileContents
+11:42:51 - [34mdebug[39m: loadFileContents
+11:42:51 - [34mdebug[39m: loadFileContents
+11:42:51 - [34mdebug[39m: loadFileContents
+11:42:51 - [34mdebug[39m: loadFileContents
+11:42:51 - [34mdebug[39m: loadFileContents
+11:42:51 - [34mdebug[39m: loadFilesContents
+11:42:56 - [34mdebug[39m: fromDirectory
+11:42:56 - [34mdebug[39m: loadFileContents
+11:42:56 - [34mdebug[39m: fromDirectory
+11:42:56 - [34mdebug[39m: fromDirectory
+11:42:56 - [34mdebug[39m: loadFilesContents
+11:42:56 - [34mdebug[39m: loadFilesContents
+11:42:56 - [34mdebug[39m: loadFilesContents
+11:42:56 - [34mdebug[39m: loadFilesContents
+11:42:56 - [34mdebug[39m: loadFilesContents
+11:42:56 - [34mdebug[39m: loadFileContents
+11:42:56 - [34mdebug[39m: loadFilesContents
+11:42:57 - [31merror[39m: Parse error at line 10 column 5
+----
+    
+Expected: '
+
+{{#clause '
+ParseException: Parse error at line 10 column 5
+----
+    
+Expected: '
+
+{{#clause '
+    at _throwParseException (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\errorutil.js:88:11)
+    at TemplateMarkTransformer.dataFromCiceroMark (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TemplateMarkTransformer.js:124:13)
+    at Clause.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateinstance.js:132:42)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\lib\commands.js:170:24
+11:43:28 - [32minfo[39m: Using current directory as template folder
+11:43:28 - [32minfo[39m: Loading a default text/sample.md file.
+11:43:28 - [34mdebug[39m: loadFileContents
+11:43:28 - [34mdebug[39m: loadFileBuffer
+11:43:28 - [34mdebug[39m: loadFileContents
+11:43:28 - [34mdebug[39m: loadFileContents
+11:43:28 - [34mdebug[39m: fromDirectory
+11:43:28 - [34mdebug[39m: loadFilesContents
+11:43:28 - [34mdebug[39m: loadFilesContents
+11:43:28 - [34mdebug[39m: loadFilesContents
+11:43:28 - [34mdebug[39m: loadFilesContents
+11:43:28 - [34mdebug[39m: loadFilesContents
+11:43:28 - [34mdebug[39m: loadFilesContents
+11:43:28 - [34mdebug[39m: loadFileContents
+11:43:28 - [34mdebug[39m: fromDirectory
+11:43:28 - [34mdebug[39m: loadFilesContents
+11:43:28 - [34mdebug[39m: loadFilesContents
+11:43:28 - [34mdebug[39m: loadFilesContents
+11:43:28 - [34mdebug[39m: loadFilesContents
+11:43:28 - [34mdebug[39m: loadFilesContents
+11:43:28 - [34mdebug[39m: loadFileContents
+11:43:28 - [34mdebug[39m: loadFileContents
+11:43:28 - [34mdebug[39m: loadFileContents
+11:43:28 - [34mdebug[39m: loadFileContents
+11:43:28 - [34mdebug[39m: loadFileContents
+11:43:28 - [34mdebug[39m: loadFileContents
+11:43:28 - [34mdebug[39m: loadFileContents
+11:43:28 - [34mdebug[39m: loadFilesContents
+11:43:34 - [34mdebug[39m: fromDirectory
+11:43:34 - [34mdebug[39m: loadFileContents
+11:43:34 - [34mdebug[39m: fromDirectory
+11:43:34 - [34mdebug[39m: fromDirectory
+11:43:34 - [34mdebug[39m: loadFilesContents
+11:43:34 - [34mdebug[39m: loadFilesContents
+11:43:34 - [34mdebug[39m: loadFilesContents
+11:43:34 - [34mdebug[39m: loadFilesContents
+11:43:34 - [34mdebug[39m: loadFilesContents
+11:43:34 - [34mdebug[39m: loadFileContents
+11:43:34 - [34mdebug[39m: loadFilesContents
+11:43:35 - [31merror[39m: Parse error at line 10 column 5
+----
+    
+Expected: '
+
+{{#clause '
+ParseException: Parse error at line 10 column 5
+----
+    
+Expected: '
+
+{{#clause '
+    at _throwParseException (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\errorutil.js:88:11)
+    at TemplateMarkTransformer.dataFromCiceroMark (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TemplateMarkTransformer.js:124:13)
+    at Clause.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateinstance.js:132:42)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\lib\commands.js:170:24
+11:44:04 - [32minfo[39m: Using current directory as template folder
+11:44:04 - [32minfo[39m: Loading a default text/sample.md file.
+11:44:04 - [34mdebug[39m: loadFileContents
+11:44:04 - [34mdebug[39m: loadFileBuffer
+11:44:04 - [34mdebug[39m: loadFileContents
+11:44:04 - [34mdebug[39m: loadFileContents
+11:44:04 - [34mdebug[39m: fromDirectory
+11:44:04 - [34mdebug[39m: loadFilesContents
+11:44:04 - [34mdebug[39m: loadFilesContents
+11:44:04 - [34mdebug[39m: loadFilesContents
+11:44:04 - [34mdebug[39m: loadFilesContents
+11:44:04 - [34mdebug[39m: loadFilesContents
+11:44:04 - [34mdebug[39m: loadFilesContents
+11:44:04 - [34mdebug[39m: loadFileContents
+11:44:04 - [34mdebug[39m: fromDirectory
+11:44:04 - [34mdebug[39m: loadFilesContents
+11:44:04 - [34mdebug[39m: loadFilesContents
+11:44:04 - [34mdebug[39m: loadFilesContents
+11:44:04 - [34mdebug[39m: loadFilesContents
+11:44:04 - [34mdebug[39m: loadFilesContents
+11:44:04 - [34mdebug[39m: loadFileContents
+11:44:04 - [34mdebug[39m: loadFileContents
+11:44:04 - [34mdebug[39m: loadFileContents
+11:44:04 - [34mdebug[39m: loadFileContents
+11:44:04 - [34mdebug[39m: loadFileContents
+11:44:04 - [34mdebug[39m: loadFileContents
+11:44:04 - [34mdebug[39m: loadFileContents
+11:44:04 - [34mdebug[39m: loadFilesContents
+11:44:10 - [34mdebug[39m: fromDirectory
+11:44:10 - [34mdebug[39m: loadFileContents
+11:44:10 - [34mdebug[39m: fromDirectory
+11:44:10 - [34mdebug[39m: fromDirectory
+11:44:10 - [34mdebug[39m: loadFilesContents
+11:44:10 - [34mdebug[39m: loadFilesContents
+11:44:10 - [34mdebug[39m: loadFilesContents
+11:44:10 - [34mdebug[39m: loadFilesContents
+11:44:10 - [34mdebug[39m: loadFilesContents
+11:44:10 - [34mdebug[39m: loadFileContents
+11:44:10 - [34mdebug[39m: loadFilesContents
+11:44:11 - [31merror[39m: Parse error at line 10 column 5
+----
+    
+Expected: '
+
+{{#clause '
+ParseException: Parse error at line 10 column 5
+----
+    
+Expected: '
+
+{{#clause '
+    at _throwParseException (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\errorutil.js:88:11)
+    at TemplateMarkTransformer.dataFromCiceroMark (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TemplateMarkTransformer.js:124:13)
+    at Clause.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateinstance.js:132:42)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\lib\commands.js:170:24
+11:46:35 - [32minfo[39m: Using current directory as template folder
+11:46:35 - [32minfo[39m: Loading a default data.json file.
+11:46:35 - [34mdebug[39m: loadFileContents
+11:46:35 - [34mdebug[39m: loadFileBuffer
+11:46:35 - [34mdebug[39m: loadFileContents
+11:46:35 - [34mdebug[39m: loadFileContents
+11:46:35 - [34mdebug[39m: fromDirectory
+11:46:35 - [34mdebug[39m: loadFilesContents
+11:46:35 - [34mdebug[39m: loadFilesContents
+11:46:35 - [34mdebug[39m: loadFilesContents
+11:46:35 - [34mdebug[39m: loadFilesContents
+11:46:35 - [34mdebug[39m: loadFilesContents
+11:46:35 - [34mdebug[39m: loadFilesContents
+11:46:35 - [34mdebug[39m: loadFileContents
+11:46:35 - [34mdebug[39m: fromDirectory
+11:46:35 - [34mdebug[39m: loadFilesContents
+11:46:35 - [34mdebug[39m: loadFilesContents
+11:46:35 - [34mdebug[39m: loadFilesContents
+11:46:35 - [34mdebug[39m: loadFilesContents
+11:46:35 - [34mdebug[39m: loadFilesContents
+11:46:35 - [34mdebug[39m: loadFileContents
+11:46:35 - [34mdebug[39m: loadFileContents
+11:46:35 - [34mdebug[39m: loadFileContents
+11:46:35 - [34mdebug[39m: loadFileContents
+11:46:35 - [34mdebug[39m: loadFileContents
+11:46:35 - [34mdebug[39m: loadFileContents
+11:46:35 - [34mdebug[39m: loadFileContents
+11:46:35 - [34mdebug[39m: loadFilesContents
+11:46:41 - [34mdebug[39m: fromDirectory
+11:46:41 - [34mdebug[39m: loadFileContents
+11:46:41 - [34mdebug[39m: fromDirectory
+11:46:41 - [34mdebug[39m: fromDirectory
+11:46:41 - [34mdebug[39m: loadFilesContents
+11:46:41 - [34mdebug[39m: loadFilesContents
+11:46:41 - [34mdebug[39m: loadFilesContents
+11:46:41 - [34mdebug[39m: loadFilesContents
+11:46:41 - [34mdebug[39m: loadFilesContents
+11:46:41 - [34mdebug[39m: loadFileContents
+11:46:41 - [34mdebug[39m: loadFilesContents
+11:46:42 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","contractId":"e96ee4e9-a3b6-44e9-96c5-b3160f249877","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":true,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","clauseId":"3c72cd74-cbcf-49f7-b7f0-314501961b76","paymethod":"überweisen","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"}}}
+11:46:42 - [34mdebug[39m: Engine processing clause formula_a6b8ada36b0fb03c4aa3f929bc37ed217a0132fdc4bc05091e5020023e0f0c1e with state org.accordproject.cicero.contract.AccordContractState
+11:46:42 - [34mdebug[39m: Calling eval with context [object Object]
+11:46:42 - [32minfo[39m: Creating file: ./text/sample.md
+11:46:42 - [32minfo[39m: Mietvertrag
+====
+
+**Ich** vermiete meine *Wohnung* "Boeblinger Strasse 10" "Boeblingen" "77777" "Bonn" "Bonn" "Germany" an "Max" fuer den Zeitraum von 08/20/2020 bis 08/20/2021 fuer einen ***Monatlichen*** preis von 400.0 EUR.
+true
+{{%"mieter kann nicht zahlen"%}}
+Der Mieter kann doch noch zahlen.
+
+Payment
+----
+
+{{#clause paymentClause}}
+Der mieter muss dem vermieter die "vierhundert" (400.0 EUR) "überweisen".
+{{/clause}}
+11:46:56 - [32minfo[39m: Using current directory as template folder
+11:46:56 - [32minfo[39m: Loading a default text/sample.md file.
+11:46:56 - [34mdebug[39m: loadFileContents
+11:46:56 - [34mdebug[39m: loadFileBuffer
+11:46:56 - [34mdebug[39m: loadFileContents
+11:46:56 - [34mdebug[39m: loadFileContents
+11:46:56 - [34mdebug[39m: fromDirectory
+11:46:56 - [34mdebug[39m: loadFilesContents
+11:46:56 - [34mdebug[39m: loadFilesContents
+11:46:56 - [34mdebug[39m: loadFilesContents
+11:46:56 - [34mdebug[39m: loadFilesContents
+11:46:56 - [34mdebug[39m: loadFilesContents
+11:46:56 - [34mdebug[39m: loadFilesContents
+11:46:56 - [34mdebug[39m: loadFileContents
+11:46:56 - [34mdebug[39m: fromDirectory
+11:46:56 - [34mdebug[39m: loadFilesContents
+11:46:56 - [34mdebug[39m: loadFilesContents
+11:46:56 - [34mdebug[39m: loadFilesContents
+11:46:56 - [34mdebug[39m: loadFilesContents
+11:46:56 - [34mdebug[39m: loadFilesContents
+11:46:56 - [34mdebug[39m: loadFileContents
+11:46:56 - [34mdebug[39m: loadFileContents
+11:46:56 - [34mdebug[39m: loadFileContents
+11:46:56 - [34mdebug[39m: loadFileContents
+11:46:56 - [34mdebug[39m: loadFileContents
+11:46:56 - [34mdebug[39m: loadFileContents
+11:46:56 - [34mdebug[39m: loadFileContents
+11:46:56 - [34mdebug[39m: loadFilesContents
+11:47:01 - [34mdebug[39m: fromDirectory
+11:47:01 - [34mdebug[39m: loadFileContents
+11:47:01 - [34mdebug[39m: fromDirectory
+11:47:01 - [34mdebug[39m: fromDirectory
+11:47:01 - [34mdebug[39m: loadFilesContents
+11:47:01 - [34mdebug[39m: loadFilesContents
+11:47:01 - [34mdebug[39m: loadFilesContents
+11:47:01 - [34mdebug[39m: loadFilesContents
+11:47:01 - [34mdebug[39m: loadFilesContents
+11:47:01 - [34mdebug[39m: loadFileContents
+11:47:01 - [34mdebug[39m: loadFilesContents
+11:47:02 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":true,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"759d82ac-32cd-4ce8-bc16-478d0be5dc34"},"contractId":"ddccd021-2170-4d6f-8464-58d9e5011c04"}
+11:47:02 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32maddress[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.address.PostalAddress[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstreetAddress[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblinger Strasse 10[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostalCode[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblingen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostOfficeBoxNumber[39m[33m"[39m[33m: [39m[33m"[39m[35m77777[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressRegion[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressLocality[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressCountry[39m[33m"[39m[33m: [39m[33m"[39m[35mGermany[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mmieter[39m[33m"[39m[33m: [39m[33m"[39m[35mMax[39m[33m"[39m[33m,[39m
+  [33m"[39m[32merstes_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mzweites_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mpreis[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpleite[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32merspartes[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpaymentClause[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.PaymentClause[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamountText[39m[33m"[39m[33m: [39m[33m"[39m[35mvierhundert[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+      [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+    [33m}[39m[33m,[39m
+    [33m"[39m[32mpaymethod[39m[33m"[39m[33m: [39m[33m"[39m[35müberweisen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m759d82ac-32cd-4ce8-bc16-478d0be5dc34[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35mddccd021-2170-4d6f-8464-58d9e5011c04[39m[33m"[39m
+[33m}[39m
+11:47:42 - [32minfo[39m: Using current directory as template folder
+11:47:42 - [32minfo[39m: Loading a default text/sample.md file.
+11:47:42 - [34mdebug[39m: loadFileContents
+11:47:42 - [34mdebug[39m: loadFileBuffer
+11:47:42 - [34mdebug[39m: loadFileContents
+11:47:42 - [34mdebug[39m: loadFileContents
+11:47:42 - [34mdebug[39m: fromDirectory
+11:47:42 - [34mdebug[39m: loadFilesContents
+11:47:42 - [34mdebug[39m: loadFilesContents
+11:47:42 - [34mdebug[39m: loadFilesContents
+11:47:42 - [34mdebug[39m: loadFilesContents
+11:47:42 - [34mdebug[39m: loadFilesContents
+11:47:42 - [34mdebug[39m: loadFilesContents
+11:47:42 - [34mdebug[39m: loadFileContents
+11:47:42 - [34mdebug[39m: fromDirectory
+11:47:42 - [34mdebug[39m: loadFilesContents
+11:47:42 - [34mdebug[39m: loadFilesContents
+11:47:42 - [34mdebug[39m: loadFilesContents
+11:47:42 - [34mdebug[39m: loadFilesContents
+11:47:42 - [34mdebug[39m: loadFilesContents
+11:47:42 - [34mdebug[39m: loadFileContents
+11:47:42 - [34mdebug[39m: loadFileContents
+11:47:42 - [34mdebug[39m: loadFileContents
+11:47:42 - [34mdebug[39m: loadFileContents
+11:47:42 - [34mdebug[39m: loadFileContents
+11:47:42 - [34mdebug[39m: loadFileContents
+11:47:42 - [34mdebug[39m: loadFileContents
+11:47:42 - [34mdebug[39m: loadFilesContents
+11:47:48 - [34mdebug[39m: fromDirectory
+11:47:48 - [34mdebug[39m: loadFileContents
+11:47:48 - [34mdebug[39m: fromDirectory
+11:47:48 - [34mdebug[39m: fromDirectory
+11:47:48 - [34mdebug[39m: loadFilesContents
+11:47:48 - [34mdebug[39m: loadFilesContents
+11:47:48 - [34mdebug[39m: loadFilesContents
+11:47:48 - [34mdebug[39m: loadFilesContents
+11:47:48 - [34mdebug[39m: loadFilesContents
+11:47:48 - [34mdebug[39m: loadFileContents
+11:47:48 - [34mdebug[39m: loadFilesContents
+11:47:49 - [31merror[39m: Instance org.example.mietvertrag01.MyContract#b5b31d27-0862-4bf8-b828-47866a3fc2a2 missing required field pleite
+ValidationException: Instance org.example.mietvertrag01.MyContract#b5b31d27-0862-4bf8-b828-47866a3fc2a2 missing required field pleite
+    at Function.reportMissingRequiredProperty (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\serializer\resourcevalidator.js:482:15)
+    at ResourceValidator.visitClassDeclaration (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\serializer\resourcevalidator.js:180:39)
+    at ResourceValidator.visit (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\serializer\resourcevalidator.js:75:25)
+    at AssetDeclaration.accept (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\introspect\decorated.js:65:24)
+    at ValidatedResource.validate (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\model\validatedresource.js:124:26)
+    at Serializer.fromJSON (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\serializer.js:187:22)
+    at TemplateMarkTransformer.dataFromCiceroMark (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TemplateMarkTransformer.js:122:49)
+    at Clause.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateinstance.js:132:42)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\lib\commands.js:170:24
+12:09:53 - [32minfo[39m: Using current directory as template folder
+12:09:53 - [32minfo[39m: Loading a default text/sample.md file.
+12:09:53 - [34mdebug[39m: loadFileContents
+12:09:53 - [34mdebug[39m: loadFileBuffer
+12:09:53 - [34mdebug[39m: loadFileContents
+12:09:53 - [34mdebug[39m: loadFileContents
+12:09:53 - [34mdebug[39m: fromDirectory
+12:09:53 - [34mdebug[39m: loadFilesContents
+12:09:53 - [34mdebug[39m: loadFilesContents
+12:09:53 - [34mdebug[39m: loadFilesContents
+12:09:53 - [34mdebug[39m: loadFilesContents
+12:09:53 - [34mdebug[39m: loadFilesContents
+12:09:53 - [34mdebug[39m: loadFilesContents
+12:09:53 - [34mdebug[39m: loadFileContents
+12:09:53 - [34mdebug[39m: fromDirectory
+12:09:53 - [34mdebug[39m: loadFilesContents
+12:09:53 - [34mdebug[39m: loadFilesContents
+12:09:53 - [34mdebug[39m: loadFilesContents
+12:09:53 - [34mdebug[39m: loadFilesContents
+12:09:53 - [34mdebug[39m: loadFilesContents
+12:09:53 - [34mdebug[39m: loadFileContents
+12:09:53 - [34mdebug[39m: loadFileContents
+12:09:53 - [34mdebug[39m: loadFileContents
+12:09:53 - [34mdebug[39m: loadFileContents
+12:09:53 - [34mdebug[39m: loadFileContents
+12:09:53 - [34mdebug[39m: loadFileContents
+12:09:53 - [34mdebug[39m: loadFileContents
+12:09:53 - [34mdebug[39m: loadFilesContents
+12:09:58 - [34mdebug[39m: fromDirectory
+12:09:58 - [34mdebug[39m: loadFileContents
+12:09:58 - [34mdebug[39m: fromDirectory
+12:09:58 - [34mdebug[39m: fromDirectory
+12:09:58 - [34mdebug[39m: loadFilesContents
+12:09:58 - [34mdebug[39m: loadFilesContents
+12:09:58 - [34mdebug[39m: loadFilesContents
+12:09:58 - [34mdebug[39m: loadFilesContents
+12:09:58 - [34mdebug[39m: loadFilesContents
+12:09:58 - [34mdebug[39m: loadFileContents
+12:09:58 - [34mdebug[39m: loadFilesContents
+12:09:59 - [31merror[39m: Instance org.example.mietvertrag01.MyContract#f661d051-f046-462d-b6d6-7a299419c926 missing required field pleite
+ValidationException: Instance org.example.mietvertrag01.MyContract#f661d051-f046-462d-b6d6-7a299419c926 missing required field pleite
+    at Function.reportMissingRequiredProperty (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\serializer\resourcevalidator.js:482:15)
+    at ResourceValidator.visitClassDeclaration (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\serializer\resourcevalidator.js:180:39)
+    at ResourceValidator.visit (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\serializer\resourcevalidator.js:75:25)
+    at AssetDeclaration.accept (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\introspect\decorated.js:65:24)
+    at ValidatedResource.validate (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\model\validatedresource.js:124:26)
+    at Serializer.fromJSON (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\serializer.js:187:22)
+    at TemplateMarkTransformer.dataFromCiceroMark (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TemplateMarkTransformer.js:122:49)
+    at Clause.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateinstance.js:132:42)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\lib\commands.js:170:24
+12:11:30 - [32minfo[39m: Using current directory as template folder
+12:11:30 - [32minfo[39m: Loading a default text/sample.md file.
+12:11:30 - [34mdebug[39m: loadFileContents
+12:11:30 - [34mdebug[39m: loadFileBuffer
+12:11:30 - [34mdebug[39m: loadFileContents
+12:11:30 - [34mdebug[39m: loadFileContents
+12:11:30 - [34mdebug[39m: fromDirectory
+12:11:30 - [34mdebug[39m: loadFilesContents
+12:11:30 - [34mdebug[39m: loadFilesContents
+12:11:30 - [34mdebug[39m: loadFilesContents
+12:11:30 - [34mdebug[39m: loadFilesContents
+12:11:30 - [34mdebug[39m: loadFilesContents
+12:11:30 - [34mdebug[39m: loadFilesContents
+12:11:30 - [34mdebug[39m: loadFileContents
+12:11:30 - [34mdebug[39m: fromDirectory
+12:11:30 - [34mdebug[39m: loadFilesContents
+12:11:30 - [34mdebug[39m: loadFilesContents
+12:11:30 - [34mdebug[39m: loadFilesContents
+12:11:30 - [34mdebug[39m: loadFilesContents
+12:11:30 - [34mdebug[39m: loadFilesContents
+12:11:30 - [34mdebug[39m: loadFileContents
+12:11:30 - [34mdebug[39m: loadFileContents
+12:11:30 - [34mdebug[39m: loadFileContents
+12:11:30 - [34mdebug[39m: loadFileContents
+12:11:30 - [34mdebug[39m: loadFileContents
+12:11:30 - [34mdebug[39m: loadFileContents
+12:11:30 - [34mdebug[39m: loadFileContents
+12:11:30 - [34mdebug[39m: loadFilesContents
+12:11:30 - [31merror[39m: Expected "[]", comment, end of line, identifier, or whitespace but "?" found. File C:/Users/weisgerb/Documents/Arbeit/02_Praxiseinsatz_Studylab/workspace/mietvertrag/model/model.cto line 33 column 12
+ParseException: Expected "[]", comment, end of line, identifier, or whitespace but "?" found. File C:/Users/weisgerb/Documents/Arbeit/02_Praxiseinsatz_Studylab/workspace/mietvertrag/model/model.cto line 33 column 12
+    at new ModelFile (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\introspect\modelfile.js:79:23)
+    at APModelManager.addModelFiles (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\modelmanager.js:249:29)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:211:34
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:16:103)
+    at _next (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:18:194)
+12:12:29 - [32minfo[39m: Using current directory as template folder
+12:12:29 - [32minfo[39m: Loading a default text/sample.md file.
+12:12:29 - [34mdebug[39m: loadFileContents
+12:12:29 - [34mdebug[39m: loadFileBuffer
+12:12:29 - [34mdebug[39m: loadFileContents
+12:12:29 - [34mdebug[39m: loadFileContents
+12:12:29 - [34mdebug[39m: fromDirectory
+12:12:29 - [34mdebug[39m: loadFilesContents
+12:12:30 - [34mdebug[39m: loadFilesContents
+12:12:30 - [34mdebug[39m: loadFilesContents
+12:12:30 - [34mdebug[39m: loadFilesContents
+12:12:30 - [34mdebug[39m: loadFilesContents
+12:12:30 - [34mdebug[39m: loadFilesContents
+12:12:30 - [34mdebug[39m: loadFileContents
+12:12:30 - [34mdebug[39m: fromDirectory
+12:12:30 - [34mdebug[39m: loadFilesContents
+12:12:30 - [34mdebug[39m: loadFilesContents
+12:12:30 - [34mdebug[39m: loadFilesContents
+12:12:30 - [34mdebug[39m: loadFilesContents
+12:12:30 - [34mdebug[39m: loadFilesContents
+12:12:30 - [34mdebug[39m: loadFileContents
+12:12:30 - [34mdebug[39m: loadFileContents
+12:12:30 - [34mdebug[39m: loadFileContents
+12:12:30 - [34mdebug[39m: loadFileContents
+12:12:30 - [34mdebug[39m: loadFileContents
+12:12:30 - [34mdebug[39m: loadFileContents
+12:12:30 - [34mdebug[39m: loadFileContents
+12:12:30 - [34mdebug[39m: loadFilesContents
+12:12:30 - [31merror[39m: Expected "[]", comment, end of line, identifier, or whitespace but "?" found. File C:/Users/weisgerb/Documents/Arbeit/02_Praxiseinsatz_Studylab/workspace/mietvertrag/model/model.cto line 33 column 12
+ParseException: Expected "[]", comment, end of line, identifier, or whitespace but "?" found. File C:/Users/weisgerb/Documents/Arbeit/02_Praxiseinsatz_Studylab/workspace/mietvertrag/model/model.cto line 33 column 12
+    at new ModelFile (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\introspect\modelfile.js:79:23)
+    at APModelManager.addModelFiles (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\modelmanager.js:249:29)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:211:34
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:16:103)
+    at _next (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:18:194)
+12:12:42 - [32minfo[39m: Using current directory as template folder
+12:12:42 - [32minfo[39m: Loading a default text/sample.md file.
+12:12:42 - [34mdebug[39m: loadFileContents
+12:12:42 - [34mdebug[39m: loadFileBuffer
+12:12:42 - [34mdebug[39m: loadFileContents
+12:12:42 - [34mdebug[39m: loadFileContents
+12:12:42 - [34mdebug[39m: fromDirectory
+12:12:42 - [34mdebug[39m: loadFilesContents
+12:12:42 - [34mdebug[39m: loadFilesContents
+12:12:42 - [34mdebug[39m: loadFilesContents
+12:12:42 - [34mdebug[39m: loadFilesContents
+12:12:42 - [34mdebug[39m: loadFilesContents
+12:12:42 - [34mdebug[39m: loadFilesContents
+12:12:42 - [34mdebug[39m: loadFileContents
+12:12:42 - [34mdebug[39m: fromDirectory
+12:12:42 - [34mdebug[39m: loadFilesContents
+12:12:42 - [34mdebug[39m: loadFilesContents
+12:12:42 - [34mdebug[39m: loadFilesContents
+12:12:42 - [34mdebug[39m: loadFilesContents
+12:12:42 - [34mdebug[39m: loadFilesContents
+12:12:42 - [34mdebug[39m: loadFileContents
+12:12:42 - [34mdebug[39m: loadFileContents
+12:12:42 - [34mdebug[39m: loadFileContents
+12:12:42 - [34mdebug[39m: loadFileContents
+12:12:42 - [34mdebug[39m: loadFileContents
+12:12:42 - [34mdebug[39m: loadFileContents
+12:12:42 - [34mdebug[39m: loadFileContents
+12:12:42 - [34mdebug[39m: loadFilesContents
+12:12:42 - [31merror[39m: Expected "[]", comment, end of line, identifier, or whitespace but "?" found. File C:/Users/weisgerb/Documents/Arbeit/02_Praxiseinsatz_Studylab/workspace/mietvertrag/model/model.cto line 33 column 12
+ParseException: Expected "[]", comment, end of line, identifier, or whitespace but "?" found. File C:/Users/weisgerb/Documents/Arbeit/02_Praxiseinsatz_Studylab/workspace/mietvertrag/model/model.cto line 33 column 12
+    at new ModelFile (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\introspect\modelfile.js:79:23)
+    at APModelManager.addModelFiles (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\modelmanager.js:249:29)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:211:34
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:16:103)
+    at _next (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:18:194)
+12:16:13 - [32minfo[39m: Using current directory as template folder
+12:16:13 - [32minfo[39m: Loading a default text/sample.md file.
+12:16:13 - [34mdebug[39m: loadFileContents
+12:16:13 - [34mdebug[39m: loadFileBuffer
+12:16:13 - [34mdebug[39m: loadFileContents
+12:16:13 - [34mdebug[39m: loadFileContents
+12:16:13 - [34mdebug[39m: fromDirectory
+12:16:13 - [34mdebug[39m: loadFilesContents
+12:16:13 - [34mdebug[39m: loadFilesContents
+12:16:13 - [34mdebug[39m: loadFilesContents
+12:16:13 - [34mdebug[39m: loadFilesContents
+12:16:13 - [34mdebug[39m: loadFilesContents
+12:16:13 - [34mdebug[39m: loadFilesContents
+12:16:13 - [34mdebug[39m: loadFileContents
+12:16:13 - [34mdebug[39m: fromDirectory
+12:16:13 - [34mdebug[39m: loadFilesContents
+12:16:13 - [34mdebug[39m: loadFilesContents
+12:16:13 - [34mdebug[39m: loadFilesContents
+12:16:13 - [34mdebug[39m: loadFilesContents
+12:16:13 - [34mdebug[39m: loadFilesContents
+12:16:13 - [34mdebug[39m: loadFileContents
+12:16:13 - [34mdebug[39m: loadFileContents
+12:16:13 - [34mdebug[39m: loadFileContents
+12:16:13 - [34mdebug[39m: loadFileContents
+12:16:13 - [34mdebug[39m: loadFileContents
+12:16:13 - [34mdebug[39m: loadFileContents
+12:16:13 - [34mdebug[39m: loadFileContents
+12:16:13 - [34mdebug[39m: loadFilesContents
+12:16:19 - [34mdebug[39m: fromDirectory
+12:16:19 - [34mdebug[39m: loadFileContents
+12:16:19 - [34mdebug[39m: fromDirectory
+12:16:19 - [34mdebug[39m: fromDirectory
+12:16:19 - [34mdebug[39m: loadFilesContents
+12:16:19 - [34mdebug[39m: loadFilesContents
+12:16:19 - [34mdebug[39m: loadFilesContents
+12:16:19 - [34mdebug[39m: loadFilesContents
+12:16:19 - [34mdebug[39m: loadFilesContents
+12:16:19 - [34mdebug[39m: loadFileContents
+12:16:19 - [34mdebug[39m: loadFilesContents
+12:16:20 - [31merror[39m: Parse error at line 6 column 1
+Der Mieter kann doch noch zahlen.
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Expected: ' mieter kann nicht zahlen' or 'Mieter zahlt fristgerecht'
+ParseException: Parse error at line 6 column 1
+Der Mieter kann doch noch zahlen.
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Expected: ' mieter kann nicht zahlen' or 'Mieter zahlt fristgerecht'
+    at _throwParseException (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\errorutil.js:88:11)
+    at TemplateMarkTransformer.dataFromCiceroMark (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TemplateMarkTransformer.js:124:13)
+    at Clause.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateinstance.js:132:42)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\lib\commands.js:170:24
+12:16:49 - [32minfo[39m: Using current directory as template folder
+12:16:49 - [32minfo[39m: Loading a default data.json file.
+12:16:49 - [34mdebug[39m: loadFileContents
+12:16:49 - [34mdebug[39m: loadFileBuffer
+12:16:49 - [34mdebug[39m: loadFileContents
+12:16:49 - [34mdebug[39m: loadFileContents
+12:16:49 - [34mdebug[39m: fromDirectory
+12:16:49 - [34mdebug[39m: loadFilesContents
+12:16:49 - [34mdebug[39m: loadFilesContents
+12:16:49 - [34mdebug[39m: loadFilesContents
+12:16:49 - [34mdebug[39m: loadFilesContents
+12:16:49 - [34mdebug[39m: loadFilesContents
+12:16:49 - [34mdebug[39m: loadFilesContents
+12:16:49 - [34mdebug[39m: loadFileContents
+12:16:49 - [34mdebug[39m: fromDirectory
+12:16:49 - [34mdebug[39m: loadFilesContents
+12:16:49 - [34mdebug[39m: loadFilesContents
+12:16:49 - [34mdebug[39m: loadFilesContents
+12:16:49 - [34mdebug[39m: loadFilesContents
+12:16:49 - [34mdebug[39m: loadFilesContents
+12:16:49 - [34mdebug[39m: loadFileContents
+12:16:49 - [34mdebug[39m: loadFileContents
+12:16:49 - [34mdebug[39m: loadFileContents
+12:16:49 - [34mdebug[39m: loadFileContents
+12:16:49 - [34mdebug[39m: loadFileContents
+12:16:49 - [34mdebug[39m: loadFileContents
+12:16:49 - [34mdebug[39m: loadFileContents
+12:16:49 - [34mdebug[39m: loadFilesContents
+12:16:54 - [34mdebug[39m: fromDirectory
+12:16:54 - [34mdebug[39m: loadFileContents
+12:16:54 - [34mdebug[39m: fromDirectory
+12:16:54 - [34mdebug[39m: fromDirectory
+12:16:54 - [34mdebug[39m: loadFilesContents
+12:16:54 - [34mdebug[39m: loadFilesContents
+12:16:54 - [34mdebug[39m: loadFilesContents
+12:16:54 - [34mdebug[39m: loadFilesContents
+12:16:54 - [34mdebug[39m: loadFilesContents
+12:16:54 - [34mdebug[39m: loadFileContents
+12:16:54 - [34mdebug[39m: loadFilesContents
+12:16:55 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","contractId":"e96ee4e9-a3b6-44e9-96c5-b3160f249877","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":true,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","clauseId":"3c72cd74-cbcf-49f7-b7f0-314501961b76","paymethod":"überweisen","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"}}}
+12:16:55 - [32minfo[39m: Creating file: ./text/sample.md
+12:16:55 - [32minfo[39m: Mietvertrag
+====
+
+**Ich** vermiete meine *Wohnung* "Boeblinger Strasse 10" "Boeblingen" "77777" "Bonn" "Bonn" "Germany" an "Max" fuer den Zeitraum von 08/20/2020 bis 08/20/2021 fuer einen ***Monatlichen*** preis von 400.0 EUR.
+
+ mieter kann nicht zahlen
+Der Mieter kann doch noch zahlen.
+
+Payment
+----
+
+{{#clause paymentClause}}
+Der mieter muss dem vermieter die "vierhundert" (400.0 EUR) "überweisen".
+{{/clause}}
+12:17:29 - [32minfo[39m: Using current directory as template folder
+12:17:29 - [32minfo[39m: Loading a default data.json file.
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileBuffer
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: fromDirectory
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: fromDirectory
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:34 - [34mdebug[39m: fromDirectory
+12:17:34 - [34mdebug[39m: loadFileContents
+12:17:34 - [34mdebug[39m: fromDirectory
+12:17:34 - [34mdebug[39m: fromDirectory
+12:17:34 - [34mdebug[39m: loadFilesContents
+12:17:34 - [34mdebug[39m: loadFilesContents
+12:17:34 - [34mdebug[39m: loadFilesContents
+12:17:34 - [34mdebug[39m: loadFilesContents
+12:17:34 - [34mdebug[39m: loadFilesContents
+12:17:34 - [34mdebug[39m: loadFileContents
+12:17:34 - [34mdebug[39m: loadFilesContents
+12:17:35 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","contractId":"e96ee4e9-a3b6-44e9-96c5-b3160f249877","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":true,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","clauseId":"3c72cd74-cbcf-49f7-b7f0-314501961b76","paymethod":"überweisen","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"}}}
+12:17:35 - [32minfo[39m: Creating file: ./text/sample.md
+12:17:35 - [32minfo[39m: Mietvertrag
+====
+
+**Ich** vermiete meine *Wohnung* "Boeblinger Strasse 10" "Boeblingen" "77777" "Bonn" "Bonn" "Germany" an "Max" fuer den Zeitraum von 08/20/2020 bis 08/20/2021 fuer einen ***Monatlichen*** preis von 400.0 EUR.
+
+Mieter kann nicht zahlen
+Der Mieter kann doch noch zahlen.
+
+Payment
+----
+
+{{#clause paymentClause}}
+Der mieter muss dem vermieter die "vierhundert" (400.0 EUR) "überweisen".
+{{/clause}}
+12:17:45 - [32minfo[39m: Using current directory as template folder
+12:17:45 - [32minfo[39m: Loading a default text/sample.md file.
+12:17:45 - [34mdebug[39m: loadFileContents
+12:17:45 - [34mdebug[39m: loadFileBuffer
+12:17:45 - [34mdebug[39m: loadFileContents
+12:17:45 - [34mdebug[39m: loadFileContents
+12:17:45 - [34mdebug[39m: fromDirectory
+12:17:45 - [34mdebug[39m: loadFilesContents
+12:17:45 - [34mdebug[39m: loadFilesContents
+12:17:45 - [34mdebug[39m: loadFilesContents
+12:17:45 - [34mdebug[39m: loadFilesContents
+12:17:45 - [34mdebug[39m: loadFilesContents
+12:17:45 - [34mdebug[39m: loadFilesContents
+12:17:45 - [34mdebug[39m: loadFileContents
+12:17:45 - [34mdebug[39m: fromDirectory
+12:17:45 - [34mdebug[39m: loadFilesContents
+12:17:45 - [34mdebug[39m: loadFilesContents
+12:17:45 - [34mdebug[39m: loadFilesContents
+12:17:45 - [34mdebug[39m: loadFilesContents
+12:17:45 - [34mdebug[39m: loadFilesContents
+12:17:45 - [34mdebug[39m: loadFileContents
+12:17:45 - [34mdebug[39m: loadFileContents
+12:17:45 - [34mdebug[39m: loadFileContents
+12:17:45 - [34mdebug[39m: loadFileContents
+12:17:45 - [34mdebug[39m: loadFileContents
+12:17:45 - [34mdebug[39m: loadFileContents
+12:17:45 - [34mdebug[39m: loadFileContents
+12:17:45 - [34mdebug[39m: loadFilesContents
+12:17:51 - [34mdebug[39m: fromDirectory
+12:17:51 - [34mdebug[39m: loadFileContents
+12:17:51 - [34mdebug[39m: fromDirectory
+12:17:51 - [34mdebug[39m: fromDirectory
+12:17:51 - [34mdebug[39m: loadFilesContents
+12:17:51 - [34mdebug[39m: loadFilesContents
+12:17:51 - [34mdebug[39m: loadFilesContents
+12:17:51 - [34mdebug[39m: loadFilesContents
+12:17:51 - [34mdebug[39m: loadFilesContents
+12:17:51 - [34mdebug[39m: loadFileContents
+12:17:51 - [34mdebug[39m: loadFilesContents
+12:17:52 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":true,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"4b59a93f-c4a8-4b00-b4c8-c6ab080e5520"},"contractId":"c0e5a483-1b7a-4ddc-adcb-e58c0366fa9c"}
+12:17:52 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32maddress[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.address.PostalAddress[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstreetAddress[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblinger Strasse 10[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostalCode[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblingen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostOfficeBoxNumber[39m[33m"[39m[33m: [39m[33m"[39m[35m77777[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressRegion[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressLocality[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressCountry[39m[33m"[39m[33m: [39m[33m"[39m[35mGermany[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mmieter[39m[33m"[39m[33m: [39m[33m"[39m[35mMax[39m[33m"[39m[33m,[39m
+  [33m"[39m[32merstes_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mzweites_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mpreis[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpleite[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32merspartes[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpaymentClause[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.PaymentClause[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamountText[39m[33m"[39m[33m: [39m[33m"[39m[35mvierhundert[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+      [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+    [33m}[39m[33m,[39m
+    [33m"[39m[32mpaymethod[39m[33m"[39m[33m: [39m[33m"[39m[35müberweisen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m4b59a93f-c4a8-4b00-b4c8-c6ab080e5520[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35mc0e5a483-1b7a-4ddc-adcb-e58c0366fa9c[39m[33m"[39m
+[33m}[39m
+12:18:07 - [32minfo[39m: Using current directory as template folder
+12:18:07 - [32minfo[39m: Loading a default text/sample.md file.
+12:18:07 - [34mdebug[39m: loadFileContents
+12:18:07 - [34mdebug[39m: loadFileBuffer
+12:18:07 - [34mdebug[39m: loadFileContents
+12:18:07 - [34mdebug[39m: loadFileContents
+12:18:07 - [34mdebug[39m: fromDirectory
+12:18:07 - [34mdebug[39m: loadFilesContents
+12:18:07 - [34mdebug[39m: loadFilesContents
+12:18:07 - [34mdebug[39m: loadFilesContents
+12:18:07 - [34mdebug[39m: loadFilesContents
+12:18:07 - [34mdebug[39m: loadFilesContents
+12:18:07 - [34mdebug[39m: loadFilesContents
+12:18:07 - [34mdebug[39m: loadFileContents
+12:18:07 - [34mdebug[39m: fromDirectory
+12:18:07 - [34mdebug[39m: loadFilesContents
+12:18:07 - [34mdebug[39m: loadFilesContents
+12:18:07 - [34mdebug[39m: loadFilesContents
+12:18:07 - [34mdebug[39m: loadFilesContents
+12:18:07 - [34mdebug[39m: loadFilesContents
+12:18:07 - [34mdebug[39m: loadFileContents
+12:18:07 - [34mdebug[39m: loadFileContents
+12:18:07 - [34mdebug[39m: loadFileContents
+12:18:07 - [34mdebug[39m: loadFileContents
+12:18:07 - [34mdebug[39m: loadFileContents
+12:18:07 - [34mdebug[39m: loadFileContents
+12:18:07 - [34mdebug[39m: loadFileContents
+12:18:07 - [34mdebug[39m: loadFilesContents
+12:18:13 - [34mdebug[39m: fromDirectory
+12:18:13 - [34mdebug[39m: loadFileContents
+12:18:13 - [34mdebug[39m: fromDirectory
+12:18:13 - [34mdebug[39m: fromDirectory
+12:18:13 - [34mdebug[39m: loadFilesContents
+12:18:13 - [34mdebug[39m: loadFilesContents
+12:18:13 - [34mdebug[39m: loadFilesContents
+12:18:13 - [34mdebug[39m: loadFilesContents
+12:18:13 - [34mdebug[39m: loadFilesContents
+12:18:13 - [34mdebug[39m: loadFileContents
+12:18:13 - [34mdebug[39m: loadFilesContents
+12:18:14 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":true,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"48359705-a96a-451a-af25-e3c631ff51ed"},"contractId":"c6315070-b316-4612-be09-6317c7380dac"}
+12:18:14 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32maddress[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.address.PostalAddress[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstreetAddress[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblinger Strasse 10[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostalCode[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblingen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostOfficeBoxNumber[39m[33m"[39m[33m: [39m[33m"[39m[35m77777[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressRegion[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressLocality[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressCountry[39m[33m"[39m[33m: [39m[33m"[39m[35mGermany[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mmieter[39m[33m"[39m[33m: [39m[33m"[39m[35mMax[39m[33m"[39m[33m,[39m
+  [33m"[39m[32merstes_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mzweites_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mpreis[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpleite[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32merspartes[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpaymentClause[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.PaymentClause[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamountText[39m[33m"[39m[33m: [39m[33m"[39m[35mvierhundert[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+      [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+    [33m}[39m[33m,[39m
+    [33m"[39m[32mpaymethod[39m[33m"[39m[33m: [39m[33m"[39m[35müberweisen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m48359705-a96a-451a-af25-e3c631ff51ed[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35mc6315070-b316-4612-be09-6317c7380dac[39m[33m"[39m
+[33m}[39m
+12:18:56 - [32minfo[39m: Using current directory as template folder
+12:18:56 - [32minfo[39m: Loading a default text/sample.md file.
+12:18:56 - [34mdebug[39m: loadFileContents
+12:18:56 - [34mdebug[39m: loadFileBuffer
+12:18:56 - [34mdebug[39m: loadFileContents
+12:18:56 - [34mdebug[39m: loadFileContents
+12:18:56 - [34mdebug[39m: fromDirectory
+12:18:56 - [34mdebug[39m: loadFilesContents
+12:18:56 - [34mdebug[39m: loadFilesContents
+12:18:56 - [34mdebug[39m: loadFilesContents
+12:18:56 - [34mdebug[39m: loadFilesContents
+12:18:56 - [34mdebug[39m: loadFilesContents
+12:18:56 - [34mdebug[39m: loadFilesContents
+12:18:56 - [34mdebug[39m: loadFileContents
+12:18:56 - [34mdebug[39m: fromDirectory
+12:18:56 - [34mdebug[39m: loadFilesContents
+12:18:56 - [34mdebug[39m: loadFilesContents
+12:18:56 - [34mdebug[39m: loadFilesContents
+12:18:56 - [34mdebug[39m: loadFilesContents
+12:18:56 - [34mdebug[39m: loadFilesContents
+12:18:56 - [34mdebug[39m: loadFileContents
+12:18:56 - [34mdebug[39m: loadFileContents
+12:18:56 - [34mdebug[39m: loadFileContents
+12:18:56 - [34mdebug[39m: loadFileContents
+12:18:56 - [34mdebug[39m: loadFileContents
+12:18:56 - [34mdebug[39m: loadFileContents
+12:18:56 - [34mdebug[39m: loadFileContents
+12:18:56 - [34mdebug[39m: loadFilesContents
+12:19:02 - [34mdebug[39m: fromDirectory
+12:19:02 - [34mdebug[39m: loadFileContents
+12:19:02 - [34mdebug[39m: fromDirectory
+12:19:02 - [34mdebug[39m: fromDirectory
+12:19:02 - [34mdebug[39m: loadFilesContents
+12:19:02 - [34mdebug[39m: loadFilesContents
+12:19:02 - [34mdebug[39m: loadFilesContents
+12:19:02 - [34mdebug[39m: loadFilesContents
+12:19:02 - [34mdebug[39m: loadFilesContents
+12:19:02 - [34mdebug[39m: loadFileContents
+12:19:02 - [34mdebug[39m: loadFilesContents
+12:19:03 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":false,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"097c2ee7-fc7d-4428-93ba-4f93d827b7dd"},"contractId":"27dcca41-82bb-4250-8558-053619ff9b2f"}
+12:19:03 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32maddress[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.address.PostalAddress[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstreetAddress[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblinger Strasse 10[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostalCode[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblingen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostOfficeBoxNumber[39m[33m"[39m[33m: [39m[33m"[39m[35m77777[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressRegion[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressLocality[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressCountry[39m[33m"[39m[33m: [39m[33m"[39m[35mGermany[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mmieter[39m[33m"[39m[33m: [39m[33m"[39m[35mMax[39m[33m"[39m[33m,[39m
+  [33m"[39m[32merstes_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mzweites_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mpreis[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpleite[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+  [33m"[39m[32merspartes[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpaymentClause[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.PaymentClause[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamountText[39m[33m"[39m[33m: [39m[33m"[39m[35mvierhundert[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+      [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+    [33m}[39m[33m,[39m
+    [33m"[39m[32mpaymethod[39m[33m"[39m[33m: [39m[33m"[39m[35müberweisen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m097c2ee7-fc7d-4428-93ba-4f93d827b7dd[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m27dcca41-82bb-4250-8558-053619ff9b2f[39m[33m"[39m
+[33m}[39m
+12:21:34 - [32minfo[39m: Using current directory as template folder
+12:21:34 - [32minfo[39m: Loading a default data.json file.
+12:21:34 - [34mdebug[39m: loadFileContents
+12:21:34 - [34mdebug[39m: loadFileBuffer
+12:21:34 - [34mdebug[39m: loadFileContents
+12:21:34 - [34mdebug[39m: loadFileContents
+12:21:34 - [34mdebug[39m: fromDirectory
+12:21:34 - [34mdebug[39m: loadFilesContents
+12:21:34 - [34mdebug[39m: loadFilesContents
+12:21:34 - [34mdebug[39m: loadFilesContents
+12:21:34 - [34mdebug[39m: loadFilesContents
+12:21:34 - [34mdebug[39m: loadFilesContents
+12:21:34 - [34mdebug[39m: loadFilesContents
+12:21:34 - [34mdebug[39m: loadFileContents
+12:21:34 - [34mdebug[39m: fromDirectory
+12:21:34 - [34mdebug[39m: loadFilesContents
+12:21:34 - [34mdebug[39m: loadFilesContents
+12:21:34 - [34mdebug[39m: loadFilesContents
+12:21:34 - [34mdebug[39m: loadFilesContents
+12:21:34 - [34mdebug[39m: loadFilesContents
+12:21:34 - [34mdebug[39m: loadFileContents
+12:21:34 - [34mdebug[39m: loadFileContents
+12:21:34 - [34mdebug[39m: loadFileContents
+12:21:34 - [34mdebug[39m: loadFileContents
+12:21:34 - [34mdebug[39m: loadFileContents
+12:21:34 - [34mdebug[39m: loadFileContents
+12:21:34 - [34mdebug[39m: loadFileContents
+12:21:34 - [34mdebug[39m: loadFilesContents
+12:21:39 - [34mdebug[39m: fromDirectory
+12:21:39 - [34mdebug[39m: loadFileContents
+12:21:39 - [34mdebug[39m: fromDirectory
+12:21:39 - [34mdebug[39m: fromDirectory
+12:21:39 - [34mdebug[39m: loadFilesContents
+12:21:39 - [34mdebug[39m: loadFilesContents
+12:21:39 - [34mdebug[39m: loadFilesContents
+12:21:39 - [34mdebug[39m: loadFilesContents
+12:21:39 - [34mdebug[39m: loadFilesContents
+12:21:39 - [34mdebug[39m: loadFileContents
+12:21:39 - [34mdebug[39m: loadFilesContents
+12:21:40 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","contractId":"e96ee4e9-a3b6-44e9-96c5-b3160f249877","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":false,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","clauseId":"3c72cd74-cbcf-49f7-b7f0-314501961b76","paymethod":"überweisen","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"}}}
+12:21:40 - [34mdebug[39m: Engine processing clause formula_a6b8ada36b0fb03c4aa3f929bc37ed217a0132fdc4bc05091e5020023e0f0c1e with state org.accordproject.cicero.contract.AccordContractState
+12:21:40 - [34mdebug[39m: Calling eval with context [object Object]
+12:21:40 - [32minfo[39m: Creating file: ./text/sample.md
+12:21:40 - [32minfo[39m: Mietvertrag
+====
+
+**Ich** vermiete meine *Wohnung* "Boeblinger Strasse 10" "Boeblingen" "77777" "Bonn" "Bonn" "Germany" an "Max" fuer den Zeitraum von 08/20/2020 bis 08/20/2021 fuer einen ***Monatlichen*** preis von 400.0 EUR.
+{{%"Mieter zahlt fristgerecht"%}}
+Mieter zahlt fristgerecht
+Der Mieter kann doch noch zahlen.
+
+Payment
+----
+
+{{#clause paymentClause}}
+Der mieter muss dem vermieter die "vierhundert" (400.0 EUR) "überweisen".
+{{/clause}}
+12:22:01 - [32minfo[39m: Using current directory as template folder
+12:22:01 - [32minfo[39m: Loading a default text/sample.md file.
+12:22:01 - [34mdebug[39m: loadFileContents
+12:22:01 - [34mdebug[39m: loadFileBuffer
+12:22:01 - [34mdebug[39m: loadFileContents
+12:22:01 - [34mdebug[39m: loadFileContents
+12:22:01 - [34mdebug[39m: fromDirectory
+12:22:01 - [34mdebug[39m: loadFilesContents
+12:22:01 - [34mdebug[39m: loadFilesContents
+12:22:01 - [34mdebug[39m: loadFilesContents
+12:22:01 - [34mdebug[39m: loadFilesContents
+12:22:01 - [34mdebug[39m: loadFilesContents
+12:22:01 - [34mdebug[39m: loadFilesContents
+12:22:01 - [34mdebug[39m: loadFileContents
+12:22:01 - [34mdebug[39m: fromDirectory
+12:22:01 - [34mdebug[39m: loadFilesContents
+12:22:01 - [34mdebug[39m: loadFilesContents
+12:22:01 - [34mdebug[39m: loadFilesContents
+12:22:01 - [34mdebug[39m: loadFilesContents
+12:22:01 - [34mdebug[39m: loadFilesContents
+12:22:01 - [34mdebug[39m: loadFileContents
+12:22:01 - [34mdebug[39m: loadFileContents
+12:22:01 - [34mdebug[39m: loadFileContents
+12:22:01 - [34mdebug[39m: loadFileContents
+12:22:01 - [34mdebug[39m: loadFileContents
+12:22:01 - [34mdebug[39m: loadFileContents
+12:22:01 - [34mdebug[39m: loadFileContents
+12:22:01 - [34mdebug[39m: loadFilesContents
+12:22:07 - [34mdebug[39m: fromDirectory
+12:22:07 - [34mdebug[39m: loadFileContents
+12:22:07 - [34mdebug[39m: fromDirectory
+12:22:07 - [34mdebug[39m: fromDirectory
+12:22:07 - [34mdebug[39m: loadFilesContents
+12:22:07 - [34mdebug[39m: loadFilesContents
+12:22:07 - [34mdebug[39m: loadFilesContents
+12:22:07 - [34mdebug[39m: loadFilesContents
+12:22:07 - [34mdebug[39m: loadFilesContents
+12:22:07 - [34mdebug[39m: loadFileContents
+12:22:07 - [34mdebug[39m: loadFilesContents
+12:22:08 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":false,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"347f90ee-4bba-4069-8999-3ca1de5d728d"},"contractId":"d95497d3-83af-4fcc-98f5-bb86ebc20bd8"}
+12:22:08 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32maddress[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.address.PostalAddress[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstreetAddress[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblinger Strasse 10[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostalCode[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblingen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostOfficeBoxNumber[39m[33m"[39m[33m: [39m[33m"[39m[35m77777[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressRegion[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressLocality[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressCountry[39m[33m"[39m[33m: [39m[33m"[39m[35mGermany[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mmieter[39m[33m"[39m[33m: [39m[33m"[39m[35mMax[39m[33m"[39m[33m,[39m
+  [33m"[39m[32merstes_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mzweites_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mpreis[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpleite[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+  [33m"[39m[32merspartes[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpaymentClause[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.PaymentClause[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamountText[39m[33m"[39m[33m: [39m[33m"[39m[35mvierhundert[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+      [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+    [33m}[39m[33m,[39m
+    [33m"[39m[32mpaymethod[39m[33m"[39m[33m: [39m[33m"[39m[35müberweisen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m347f90ee-4bba-4069-8999-3ca1de5d728d[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35md95497d3-83af-4fcc-98f5-bb86ebc20bd8[39m[33m"[39m
+[33m}[39m
+12:23:17 - [32minfo[39m: Using current directory as template folder
+12:23:17 - [32minfo[39m: Loading a default text/sample.md file.
+12:23:17 - [34mdebug[39m: loadFileContents
+12:23:17 - [34mdebug[39m: loadFileBuffer
+12:23:17 - [34mdebug[39m: loadFileContents
+12:23:17 - [34mdebug[39m: loadFileContents
+12:23:17 - [34mdebug[39m: fromDirectory
+12:23:17 - [34mdebug[39m: loadFilesContents
+12:23:17 - [34mdebug[39m: loadFilesContents
+12:23:17 - [34mdebug[39m: loadFilesContents
+12:23:17 - [34mdebug[39m: loadFilesContents
+12:23:17 - [34mdebug[39m: loadFilesContents
+12:23:17 - [34mdebug[39m: loadFilesContents
+12:23:17 - [34mdebug[39m: loadFileContents
+12:23:17 - [34mdebug[39m: fromDirectory
+12:23:17 - [34mdebug[39m: loadFilesContents
+12:23:17 - [34mdebug[39m: loadFilesContents
+12:23:17 - [34mdebug[39m: loadFilesContents
+12:23:17 - [34mdebug[39m: loadFilesContents
+12:23:17 - [34mdebug[39m: loadFilesContents
+12:23:17 - [34mdebug[39m: loadFileContents
+12:23:17 - [34mdebug[39m: loadFileContents
+12:23:17 - [34mdebug[39m: loadFileContents
+12:23:17 - [34mdebug[39m: loadFileContents
+12:23:17 - [34mdebug[39m: loadFileContents
+12:23:17 - [34mdebug[39m: loadFileContents
+12:23:17 - [34mdebug[39m: loadFileContents
+12:23:17 - [34mdebug[39m: loadFilesContents
+12:23:22 - [34mdebug[39m: fromDirectory
+12:23:22 - [34mdebug[39m: loadFileContents
+12:23:22 - [34mdebug[39m: fromDirectory
+12:23:22 - [34mdebug[39m: fromDirectory
+12:23:22 - [34mdebug[39m: loadFilesContents
+12:23:22 - [34mdebug[39m: loadFilesContents
+12:23:22 - [34mdebug[39m: loadFilesContents
+12:23:22 - [34mdebug[39m: loadFilesContents
+12:23:22 - [34mdebug[39m: loadFilesContents
+12:23:22 - [34mdebug[39m: loadFileContents
+12:23:22 - [34mdebug[39m: loadFilesContents
+12:23:23 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":true,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"17af25ce-267c-4786-8ccb-35aab7956803"},"contractId":"ba9788b5-cf12-4f1e-b1e8-550994cb17fe"}
+12:23:23 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32maddress[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.address.PostalAddress[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstreetAddress[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblinger Strasse 10[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostalCode[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblingen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostOfficeBoxNumber[39m[33m"[39m[33m: [39m[33m"[39m[35m77777[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressRegion[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressLocality[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressCountry[39m[33m"[39m[33m: [39m[33m"[39m[35mGermany[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mmieter[39m[33m"[39m[33m: [39m[33m"[39m[35mMax[39m[33m"[39m[33m,[39m
+  [33m"[39m[32merstes_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mzweites_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mpreis[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpleite[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32merspartes[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpaymentClause[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.PaymentClause[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamountText[39m[33m"[39m[33m: [39m[33m"[39m[35mvierhundert[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+      [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+    [33m}[39m[33m,[39m
+    [33m"[39m[32mpaymethod[39m[33m"[39m[33m: [39m[33m"[39m[35müberweisen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m17af25ce-267c-4786-8ccb-35aab7956803[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35mba9788b5-cf12-4f1e-b1e8-550994cb17fe[39m[33m"[39m
+[33m}[39m
+12:23:41 - [32minfo[39m: Using current directory as template folder
+12:23:41 - [32minfo[39m: Loading a default text/sample.md file.
+12:23:41 - [34mdebug[39m: loadFileContents
+12:23:41 - [34mdebug[39m: loadFileBuffer
+12:23:41 - [34mdebug[39m: loadFileContents
+12:23:41 - [34mdebug[39m: loadFileContents
+12:23:41 - [34mdebug[39m: fromDirectory
+12:23:41 - [34mdebug[39m: loadFilesContents
+12:23:41 - [34mdebug[39m: loadFilesContents
+12:23:41 - [34mdebug[39m: loadFilesContents
+12:23:41 - [34mdebug[39m: loadFilesContents
+12:23:41 - [34mdebug[39m: loadFilesContents
+12:23:41 - [34mdebug[39m: loadFileContents
+12:23:41 - [34mdebug[39m: loadFilesContents
+12:23:41 - [34mdebug[39m: fromDirectory
+12:23:41 - [34mdebug[39m: loadFilesContents
+12:23:41 - [34mdebug[39m: loadFilesContents
+12:23:41 - [34mdebug[39m: loadFilesContents
+12:23:41 - [34mdebug[39m: loadFilesContents
+12:23:41 - [34mdebug[39m: loadFilesContents
+12:23:41 - [34mdebug[39m: loadFileContents
+12:23:41 - [34mdebug[39m: loadFileContents
+12:23:41 - [34mdebug[39m: loadFileContents
+12:23:41 - [34mdebug[39m: loadFileContents
+12:23:41 - [34mdebug[39m: loadFileContents
+12:23:41 - [34mdebug[39m: loadFileContents
+12:23:41 - [34mdebug[39m: loadFileContents
+12:23:41 - [34mdebug[39m: loadFilesContents
+12:23:47 - [34mdebug[39m: fromDirectory
+12:23:47 - [34mdebug[39m: loadFileContents
+12:23:47 - [34mdebug[39m: fromDirectory
+12:23:47 - [34mdebug[39m: fromDirectory
+12:23:47 - [34mdebug[39m: loadFilesContents
+12:23:47 - [34mdebug[39m: loadFilesContents
+12:23:47 - [34mdebug[39m: loadFilesContents
+12:23:47 - [34mdebug[39m: loadFilesContents
+12:23:47 - [34mdebug[39m: loadFilesContents
+12:23:47 - [34mdebug[39m: loadFileContents
+12:23:47 - [34mdebug[39m: loadFilesContents
+12:23:48 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":false,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"dac5f2aa-a8d5-4190-94a4-5a583fe5e417"},"contractId":"93fed31b-d27b-4c9c-af72-c1adc50c8e1f"}
+12:23:48 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32maddress[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.address.PostalAddress[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstreetAddress[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblinger Strasse 10[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostalCode[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblingen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostOfficeBoxNumber[39m[33m"[39m[33m: [39m[33m"[39m[35m77777[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressRegion[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressLocality[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressCountry[39m[33m"[39m[33m: [39m[33m"[39m[35mGermany[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mmieter[39m[33m"[39m[33m: [39m[33m"[39m[35mMax[39m[33m"[39m[33m,[39m
+  [33m"[39m[32merstes_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mzweites_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mpreis[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpleite[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+  [33m"[39m[32merspartes[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpaymentClause[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.PaymentClause[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamountText[39m[33m"[39m[33m: [39m[33m"[39m[35mvierhundert[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+      [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+    [33m}[39m[33m,[39m
+    [33m"[39m[32mpaymethod[39m[33m"[39m[33m: [39m[33m"[39m[35müberweisen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35mdac5f2aa-a8d5-4190-94a4-5a583fe5e417[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m93fed31b-d27b-4c9c-af72-c1adc50c8e1f[39m[33m"[39m
+[33m}[39m
+12:24:23 - [32minfo[39m: Using current directory as template folder
+12:24:23 - [32minfo[39m: Loading a default text/sample.md file.
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFileBuffer
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: fromDirectory
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: fromDirectory
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:30 - [34mdebug[39m: fromDirectory
+12:24:30 - [34mdebug[39m: loadFileContents
+12:24:30 - [34mdebug[39m: fromDirectory
+12:24:30 - [34mdebug[39m: fromDirectory
+12:24:30 - [34mdebug[39m: loadFilesContents
+12:24:30 - [34mdebug[39m: loadFilesContents
+12:24:30 - [34mdebug[39m: loadFilesContents
+12:24:30 - [34mdebug[39m: loadFilesContents
+12:24:30 - [34mdebug[39m: loadFilesContents
+12:24:30 - [34mdebug[39m: loadFileContents
+12:24:30 - [34mdebug[39m: loadFilesContents
+12:24:31 - [31merror[39m: Inconsistent values for variable pleite: true and false
+ParseException: Inconsistent values for variable pleite: true and false
+    at _throwParseException (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\errorutil.js:88:11)
+    at TemplateMarkTransformer.dataFromCiceroMark (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TemplateMarkTransformer.js:119:13)
+    at Clause.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateinstance.js:132:42)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\lib\commands.js:170:24
+12:25:29 - [32minfo[39m: Using current directory as template folder
+12:25:29 - [32minfo[39m: Loading a default text/sample.md file.
+12:25:29 - [34mdebug[39m: loadFileContents
+12:25:29 - [34mdebug[39m: loadFileBuffer
+12:25:29 - [34mdebug[39m: loadFileContents
+12:25:29 - [34mdebug[39m: loadFileContents
+12:25:29 - [34mdebug[39m: fromDirectory
+12:25:29 - [34mdebug[39m: loadFilesContents
+12:25:29 - [34mdebug[39m: loadFilesContents
+12:25:29 - [34mdebug[39m: loadFilesContents
+12:25:29 - [34mdebug[39m: loadFilesContents
+12:25:29 - [34mdebug[39m: loadFilesContents
+12:25:29 - [34mdebug[39m: loadFilesContents
+12:25:29 - [34mdebug[39m: loadFileContents
+12:25:29 - [34mdebug[39m: fromDirectory
+12:25:29 - [34mdebug[39m: loadFilesContents
+12:25:29 - [34mdebug[39m: loadFilesContents
+12:25:29 - [34mdebug[39m: loadFilesContents
+12:25:29 - [34mdebug[39m: loadFilesContents
+12:25:29 - [34mdebug[39m: loadFilesContents
+12:25:29 - [34mdebug[39m: loadFileContents
+12:25:29 - [34mdebug[39m: loadFileContents
+12:25:29 - [34mdebug[39m: loadFileContents
+12:25:29 - [34mdebug[39m: loadFileContents
+12:25:29 - [34mdebug[39m: loadFileContents
+12:25:29 - [34mdebug[39m: loadFileContents
+12:25:29 - [34mdebug[39m: loadFileContents
+12:25:29 - [34mdebug[39m: loadFilesContents
+12:25:34 - [34mdebug[39m: fromDirectory
+12:25:34 - [34mdebug[39m: loadFileContents
+12:25:34 - [34mdebug[39m: fromDirectory
+12:25:34 - [34mdebug[39m: fromDirectory
+12:25:34 - [34mdebug[39m: loadFilesContents
+12:25:34 - [34mdebug[39m: loadFilesContents
+12:25:34 - [34mdebug[39m: loadFilesContents
+12:25:34 - [34mdebug[39m: loadFilesContents
+12:25:34 - [34mdebug[39m: loadFilesContents
+12:25:34 - [34mdebug[39m: loadFileContents
+12:25:34 - [34mdebug[39m: loadFilesContents
+12:25:35 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":false,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"0128062b-8cff-4721-914f-73d9706e173a"},"contractId":"54b27e96-088f-4e43-b561-56efed5c577f"}
+12:25:35 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32maddress[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.address.PostalAddress[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstreetAddress[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblinger Strasse 10[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostalCode[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblingen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostOfficeBoxNumber[39m[33m"[39m[33m: [39m[33m"[39m[35m77777[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressRegion[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressLocality[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressCountry[39m[33m"[39m[33m: [39m[33m"[39m[35mGermany[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mmieter[39m[33m"[39m[33m: [39m[33m"[39m[35mMax[39m[33m"[39m[33m,[39m
+  [33m"[39m[32merstes_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mzweites_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mpreis[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpleite[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+  [33m"[39m[32merspartes[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpaymentClause[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.PaymentClause[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamountText[39m[33m"[39m[33m: [39m[33m"[39m[35mvierhundert[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+      [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+    [33m}[39m[33m,[39m
+    [33m"[39m[32mpaymethod[39m[33m"[39m[33m: [39m[33m"[39m[35müberweisen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m0128062b-8cff-4721-914f-73d9706e173a[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m54b27e96-088f-4e43-b561-56efed5c577f[39m[33m"[39m
+[33m}[39m
+12:26:40 - [32minfo[39m: Using current directory as template folder
+12:26:40 - [32minfo[39m: Loading a default text/sample.md file.
+12:26:40 - [34mdebug[39m: loadFileContents
+12:26:40 - [34mdebug[39m: loadFileBuffer
+12:26:40 - [34mdebug[39m: loadFileContents
+12:26:40 - [34mdebug[39m: loadFileContents
+12:26:40 - [34mdebug[39m: fromDirectory
+12:26:40 - [34mdebug[39m: loadFilesContents
+12:26:40 - [34mdebug[39m: loadFilesContents
+12:26:40 - [34mdebug[39m: loadFilesContents
+12:26:40 - [34mdebug[39m: loadFilesContents
+12:26:40 - [34mdebug[39m: loadFilesContents
+12:26:40 - [34mdebug[39m: loadFileContents
+12:26:40 - [34mdebug[39m: loadFilesContents
+12:26:40 - [34mdebug[39m: fromDirectory
+12:26:40 - [34mdebug[39m: loadFilesContents
+12:26:40 - [34mdebug[39m: loadFilesContents
+12:26:40 - [34mdebug[39m: loadFilesContents
+12:26:40 - [34mdebug[39m: loadFilesContents
+12:26:40 - [34mdebug[39m: loadFilesContents
+12:26:40 - [34mdebug[39m: loadFileContents
+12:26:40 - [34mdebug[39m: loadFileContents
+12:26:40 - [34mdebug[39m: loadFileContents
+12:26:40 - [34mdebug[39m: loadFileContents
+12:26:40 - [34mdebug[39m: loadFileContents
+12:26:40 - [34mdebug[39m: loadFileContents
+12:26:40 - [34mdebug[39m: loadFileContents
+12:26:40 - [34mdebug[39m: loadFilesContents
+12:26:45 - [34mdebug[39m: fromDirectory
+12:26:45 - [34mdebug[39m: loadFileContents
+12:26:45 - [34mdebug[39m: fromDirectory
+12:26:45 - [34mdebug[39m: fromDirectory
+12:26:45 - [34mdebug[39m: loadFilesContents
+12:26:45 - [34mdebug[39m: loadFilesContents
+12:26:45 - [34mdebug[39m: loadFilesContents
+12:26:45 - [34mdebug[39m: loadFilesContents
+12:26:45 - [34mdebug[39m: loadFilesContents
+12:26:45 - [34mdebug[39m: loadFileContents
+12:26:45 - [34mdebug[39m: loadFilesContents
+12:26:46 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":false,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"1341b1bb-64a8-4887-8c57-98d1f686a450"},"contractId":"35a0d706-603a-488d-8915-6fa026173e6a"}
+12:26:46 - [32minfo[39m: Creating file: data2.json
+12:26:46 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32maddress[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.address.PostalAddress[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstreetAddress[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblinger Strasse 10[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostalCode[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblingen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostOfficeBoxNumber[39m[33m"[39m[33m: [39m[33m"[39m[35m77777[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressRegion[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressLocality[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressCountry[39m[33m"[39m[33m: [39m[33m"[39m[35mGermany[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mmieter[39m[33m"[39m[33m: [39m[33m"[39m[35mMax[39m[33m"[39m[33m,[39m
+  [33m"[39m[32merstes_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mzweites_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mpreis[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpleite[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+  [33m"[39m[32merspartes[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpaymentClause[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.PaymentClause[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamountText[39m[33m"[39m[33m: [39m[33m"[39m[35mvierhundert[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+      [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+    [33m}[39m[33m,[39m
+    [33m"[39m[32mpaymethod[39m[33m"[39m[33m: [39m[33m"[39m[35müberweisen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m1341b1bb-64a8-4887-8c57-98d1f686a450[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m35a0d706-603a-488d-8915-6fa026173e6a[39m[33m"[39m
+[33m}[39m
+12:45:10 - [32minfo[39m: Using current directory as template folder
+12:45:10 - [34mdebug[39m: loadFileContents
+12:45:10 - [34mdebug[39m: loadFileBuffer
+12:45:10 - [34mdebug[39m: loadFileContents
+12:45:10 - [34mdebug[39m: loadFileContents
+12:45:10 - [34mdebug[39m: fromDirectory
+12:45:10 - [34mdebug[39m: loadFilesContents
+12:45:10 - [34mdebug[39m: loadFilesContents
+12:45:10 - [34mdebug[39m: loadFilesContents
+12:45:10 - [34mdebug[39m: loadFilesContents
+12:45:10 - [34mdebug[39m: loadFilesContents
+12:45:10 - [34mdebug[39m: loadFilesContents
+12:45:10 - [34mdebug[39m: loadFileContents
+12:45:10 - [34mdebug[39m: fromDirectory
+12:45:10 - [34mdebug[39m: loadFilesContents
+12:45:10 - [34mdebug[39m: loadFilesContents
+12:45:10 - [34mdebug[39m: loadFilesContents
+12:45:10 - [34mdebug[39m: loadFilesContents
+12:45:10 - [34mdebug[39m: loadFilesContents
+12:45:10 - [34mdebug[39m: loadFileContents
+12:45:10 - [34mdebug[39m: loadFileContents
+12:45:10 - [34mdebug[39m: loadFileContents
+12:45:10 - [34mdebug[39m: loadFileContents
+12:45:10 - [34mdebug[39m: loadFileContents
+12:45:10 - [34mdebug[39m: loadFileContents
+12:45:10 - [34mdebug[39m: loadFileContents
+12:45:10 - [34mdebug[39m: loadFilesContents
+12:45:15 - [34mdebug[39m: fromDirectory
+12:45:15 - [34mdebug[39m: loadFileContents
+12:45:15 - [34mdebug[39m: fromDirectory
+12:45:15 - [34mdebug[39m: fromDirectory
+12:45:15 - [34mdebug[39m: loadFilesContents
+12:45:15 - [34mdebug[39m: loadFilesContents
+12:45:15 - [34mdebug[39m: loadFilesContents
+12:45:15 - [34mdebug[39m: loadFilesContents
+12:45:15 - [34mdebug[39m: loadFilesContents
+12:45:15 - [34mdebug[39m: loadFileContents
+12:45:15 - [34mdebug[39m: loadFilesContents
+12:45:16 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","contractId":"e96ee4e9-a3b6-44e9-96c5-b3160f249877","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":false,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","clauseId":"3c72cd74-cbcf-49f7-b7f0-314501961b76","paymethod":"überweisen","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"}}}
+12:45:16 - [34mdebug[39m: Engine processing clause formula_34a3cdb8027c6746234b097190650b18b0615cce8fd482971b9f83d68e49d104 with state org.accordproject.cicero.contract.AccordContractState
+12:45:16 - [34mdebug[39m: Calling eval with context [object Object]
+12:45:16 - [32minfo[39m: Mietvertrag
+====
+
+**Ich** vermiete meine *Wohnung* "Boeblinger Strasse 10" "Boeblingen" "77777" "Bonn" "Bonn" "Germany" an "Max" fuer den Zeitraum von 08/20/2020 bis 08/20/2021 fuer einen ***Monatlichen*** preis von 400.0 EUR.
+Mieter zahlt fristgerecht
+{{%"Mieter zahlt fristgerecht"%}}
+Der Mieter kann doch noch zahlen.
+
+Payment
+----
+
+{{#clause paymentClause}}
+Der mieter muss dem vermieter die "vierhundert" (400.0 EUR) "überweisen".
+{{/clause}}
+12:46:05 - [32minfo[39m: Using current directory as template folder
+12:46:05 - [32minfo[39m: Loading a default text/sample.md file.
+12:46:05 - [34mdebug[39m: loadFileContents
+12:46:05 - [34mdebug[39m: loadFileBuffer
+12:46:05 - [34mdebug[39m: loadFileContents
+12:46:05 - [34mdebug[39m: loadFileContents
+12:46:05 - [34mdebug[39m: fromDirectory
+12:46:05 - [34mdebug[39m: loadFilesContents
+12:46:05 - [34mdebug[39m: loadFilesContents
+12:46:05 - [34mdebug[39m: loadFilesContents
+12:46:05 - [34mdebug[39m: loadFilesContents
+12:46:05 - [34mdebug[39m: loadFilesContents
+12:46:05 - [34mdebug[39m: loadFilesContents
+12:46:05 - [34mdebug[39m: loadFileContents
+12:46:05 - [34mdebug[39m: fromDirectory
+12:46:05 - [34mdebug[39m: loadFilesContents
+12:46:05 - [34mdebug[39m: loadFilesContents
+12:46:05 - [34mdebug[39m: loadFilesContents
+12:46:05 - [34mdebug[39m: loadFilesContents
+12:46:05 - [34mdebug[39m: loadFilesContents
+12:46:05 - [34mdebug[39m: loadFileContents
+12:46:05 - [34mdebug[39m: loadFileContents
+12:46:05 - [34mdebug[39m: loadFileContents
+12:46:05 - [34mdebug[39m: loadFileContents
+12:46:05 - [34mdebug[39m: loadFileContents
+12:46:05 - [34mdebug[39m: loadFileContents
+12:46:05 - [34mdebug[39m: loadFileContents
+12:46:05 - [34mdebug[39m: loadFilesContents
+12:46:10 - [34mdebug[39m: fromDirectory
+12:46:10 - [34mdebug[39m: loadFileContents
+12:46:10 - [34mdebug[39m: fromDirectory
+12:46:10 - [34mdebug[39m: fromDirectory
+12:46:10 - [34mdebug[39m: loadFilesContents
+12:46:10 - [34mdebug[39m: loadFilesContents
+12:46:10 - [34mdebug[39m: loadFilesContents
+12:46:10 - [34mdebug[39m: loadFilesContents
+12:46:10 - [34mdebug[39m: loadFilesContents
+12:46:10 - [34mdebug[39m: loadFileContents
+12:46:10 - [34mdebug[39m: loadFilesContents
+12:46:11 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":false,"erspartes":true,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"0323edd5-5b07-4bc6-b47a-ac628e0209fb"},"contractId":"50b860f9-910d-4ab5-bfcf-7c54a07df2f7"}
+12:46:11 - [32minfo[39m: Creating file: data.json
+12:46:11 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32maddress[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.address.PostalAddress[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstreetAddress[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblinger Strasse 10[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostalCode[39m[33m"[39m[33m: [39m[33m"[39m[35mBoeblingen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpostOfficeBoxNumber[39m[33m"[39m[33m: [39m[33m"[39m[35m77777[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressRegion[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressLocality[39m[33m"[39m[33m: [39m[33m"[39m[35mBonn[39m[33m"[39m[33m,[39m
+    [33m"[39m[32maddressCountry[39m[33m"[39m[33m: [39m[33m"[39m[35mGermany[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mmieter[39m[33m"[39m[33m: [39m[33m"[39m[35mMax[39m[33m"[39m[33m,[39m
+  [33m"[39m[32merstes_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mzweites_datum[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-08-20T00:00:00.000+02:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mpreis[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mpleite[39m[33m"[39m[33m: [39m[31mfalse[39m[33m,[39m
+  [33m"[39m[32merspartes[39m[33m"[39m[33m: [39m[31mtrue[39m[33m,[39m
+  [33m"[39m[32mpaymentClause[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.example.mietvertrag01.PaymentClause[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamountText[39m[33m"[39m[33m: [39m[33m"[39m[35mvierhundert[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m400[39m[33m,[39m
+      [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+    [33m}[39m[33m,[39m
+    [33m"[39m[32mpaymethod[39m[33m"[39m[33m: [39m[33m"[39m[35müberweisen[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m0323edd5-5b07-4bc6-b47a-ac628e0209fb[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m50b860f9-910d-4ab5-bfcf-7c54a07df2f7[39m[33m"[39m
+[33m}[39m
+14:13:20 - [32minfo[39m: Using current directory as template folder
+14:13:20 - [32minfo[39m: Loading a default data.json file.
+14:13:20 - [34mdebug[39m: loadFileContents
+14:13:20 - [34mdebug[39m: loadFileBuffer
+14:13:20 - [34mdebug[39m: loadFileContents
+14:13:20 - [34mdebug[39m: loadFileContents
+14:13:20 - [34mdebug[39m: fromDirectory
+14:13:20 - [34mdebug[39m: loadFilesContents
+14:13:20 - [34mdebug[39m: loadFilesContents
+14:13:20 - [34mdebug[39m: loadFilesContents
+14:13:20 - [34mdebug[39m: loadFilesContents
+14:13:20 - [34mdebug[39m: loadFilesContents
+14:13:20 - [34mdebug[39m: loadFilesContents
+14:13:20 - [34mdebug[39m: loadFileContents
+14:13:20 - [34mdebug[39m: fromDirectory
+14:13:20 - [34mdebug[39m: loadFilesContents
+14:13:20 - [34mdebug[39m: loadFilesContents
+14:13:20 - [34mdebug[39m: loadFilesContents
+14:13:20 - [34mdebug[39m: loadFilesContents
+14:13:20 - [34mdebug[39m: loadFilesContents
+14:13:20 - [34mdebug[39m: loadFileContents
+14:13:20 - [34mdebug[39m: loadFileContents
+14:13:20 - [34mdebug[39m: loadFileContents
+14:13:20 - [34mdebug[39m: loadFileContents
+14:13:20 - [34mdebug[39m: loadFileContents
+14:13:20 - [34mdebug[39m: loadFileContents
+14:13:20 - [34mdebug[39m: loadFileContents
+14:13:20 - [34mdebug[39m: loadFilesContents
+14:13:26 - [34mdebug[39m: fromDirectory
+14:13:26 - [34mdebug[39m: loadFileContents
+14:13:26 - [34mdebug[39m: fromDirectory
+14:13:26 - [34mdebug[39m: fromDirectory
+14:13:26 - [34mdebug[39m: loadFilesContents
+14:13:26 - [34mdebug[39m: loadFilesContents
+14:13:26 - [34mdebug[39m: loadFilesContents
+14:13:26 - [34mdebug[39m: loadFilesContents
+14:13:26 - [34mdebug[39m: loadFilesContents
+14:13:26 - [34mdebug[39m: loadFileContents
+14:13:26 - [34mdebug[39m: loadFilesContents
+14:13:27 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":true,"erspartes":false,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"0323edd5-5b07-4bc6-b47a-ac628e0209fb"},"contractId":"50b860f9-910d-4ab5-bfcf-7c54a07df2f7"}
+14:13:27 - [34mdebug[39m: Engine processing clause formula_34a3cdb8027c6746234b097190650b18b0615cce8fd482971b9f83d68e49d104 with state org.accordproject.cicero.contract.AccordContractState
+14:13:27 - [34mdebug[39m: Calling eval with context [object Object]
+14:13:27 - [32minfo[39m: Mietvertrag
+====
+
+**Ich** vermiete meine *Wohnung* "Boeblinger Strasse 10" "Boeblingen" "77777" "Bonn" "Bonn" "Germany" an "Max" fuer den Zeitraum von 08/20/2020 bis 08/20/2021 fuer einen ***Monatlichen*** preis von 400.0 EUR.
+Mieter kann nicht zahlen
+{{%"Mieter kann nicht zahlen"%}}
+selbst die Sparbüchse ist leer
+
+Payment
+----
+
+{{#clause paymentClause}}
+Der mieter muss dem vermieter die "vierhundert" (400.0 EUR) "überweisen".
+{{/clause}}
+14:13:58 - [32minfo[39m: Using current directory as template folder
+14:13:58 - [32minfo[39m: Loading a default data.json file.
+14:13:58 - [34mdebug[39m: loadFileContents
+14:13:58 - [34mdebug[39m: loadFileBuffer
+14:13:58 - [34mdebug[39m: loadFileContents
+14:13:58 - [34mdebug[39m: loadFileContents
+14:13:58 - [34mdebug[39m: fromDirectory
+14:13:58 - [34mdebug[39m: loadFilesContents
+14:13:58 - [34mdebug[39m: loadFilesContents
+14:13:58 - [34mdebug[39m: loadFilesContents
+14:13:58 - [34mdebug[39m: loadFilesContents
+14:13:58 - [34mdebug[39m: loadFilesContents
+14:13:58 - [34mdebug[39m: loadFilesContents
+14:13:58 - [34mdebug[39m: loadFileContents
+14:13:58 - [34mdebug[39m: fromDirectory
+14:13:58 - [34mdebug[39m: loadFilesContents
+14:13:58 - [34mdebug[39m: loadFilesContents
+14:13:58 - [34mdebug[39m: loadFilesContents
+14:13:58 - [34mdebug[39m: loadFilesContents
+14:13:58 - [34mdebug[39m: loadFilesContents
+14:13:58 - [34mdebug[39m: loadFileContents
+14:13:58 - [34mdebug[39m: loadFileContents
+14:13:58 - [34mdebug[39m: loadFileContents
+14:13:58 - [34mdebug[39m: loadFileContents
+14:13:58 - [34mdebug[39m: loadFileContents
+14:13:58 - [34mdebug[39m: loadFileContents
+14:13:58 - [34mdebug[39m: loadFileContents
+14:13:58 - [34mdebug[39m: loadFilesContents
+14:14:03 - [34mdebug[39m: fromDirectory
+14:14:03 - [34mdebug[39m: loadFileContents
+14:14:03 - [34mdebug[39m: fromDirectory
+14:14:03 - [34mdebug[39m: fromDirectory
+14:14:03 - [34mdebug[39m: loadFilesContents
+14:14:03 - [34mdebug[39m: loadFilesContents
+14:14:03 - [34mdebug[39m: loadFilesContents
+14:14:03 - [34mdebug[39m: loadFilesContents
+14:14:03 - [34mdebug[39m: loadFilesContents
+14:14:03 - [34mdebug[39m: loadFileContents
+14:14:03 - [34mdebug[39m: loadFilesContents
+14:14:04 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"mieter":"Max","erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":false,"erspartes":false,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"0323edd5-5b07-4bc6-b47a-ac628e0209fb"},"contractId":"50b860f9-910d-4ab5-bfcf-7c54a07df2f7"}
+14:14:04 - [34mdebug[39m: Engine processing clause formula_34a3cdb8027c6746234b097190650b18b0615cce8fd482971b9f83d68e49d104 with state org.accordproject.cicero.contract.AccordContractState
+14:14:04 - [34mdebug[39m: Calling eval with context [object Object]
+14:14:04 - [32minfo[39m: Mietvertrag
+====
+
+**Ich** vermiete meine *Wohnung* "Boeblinger Strasse 10" "Boeblingen" "77777" "Bonn" "Bonn" "Germany" an "Max" fuer den Zeitraum von 08/20/2020 bis 08/20/2021 fuer einen ***Monatlichen*** preis von 400.0 EUR.
+Mieter zahlt fristgerecht
+{{%"Mieter zahlt fristgerecht"%}}
+selbst die Sparbüchse ist leer
+
+Payment
+----
+
+{{#clause paymentClause}}
+Der mieter muss dem vermieter die "vierhundert" (400.0 EUR) "überweisen".
+{{/clause}}
+14:25:12 - [32minfo[39m: Using current directory as template folder
+14:25:12 - [32minfo[39m: Loading a default data.json file.
+14:25:12 - [34mdebug[39m: loadFileContents
+14:25:12 - [34mdebug[39m: loadFileBuffer
+14:25:12 - [34mdebug[39m: loadFileContents
+14:25:12 - [34mdebug[39m: loadFileContents
+14:25:12 - [34mdebug[39m: fromDirectory
+14:25:12 - [34mdebug[39m: loadFilesContents
+14:25:12 - [34mdebug[39m: loadFilesContents
+14:25:12 - [34mdebug[39m: loadFilesContents
+14:25:12 - [34mdebug[39m: loadFilesContents
+14:25:12 - [34mdebug[39m: loadFilesContents
+14:25:12 - [34mdebug[39m: loadFileContents
+14:25:12 - [34mdebug[39m: loadFilesContents
+14:25:12 - [34mdebug[39m: fromDirectory
+14:25:12 - [34mdebug[39m: loadFilesContents
+14:25:12 - [34mdebug[39m: loadFilesContents
+14:25:12 - [34mdebug[39m: loadFilesContents
+14:25:12 - [34mdebug[39m: loadFilesContents
+14:25:12 - [34mdebug[39m: loadFilesContents
+14:25:12 - [34mdebug[39m: loadFileContents
+14:25:12 - [34mdebug[39m: loadFileContents
+14:25:12 - [34mdebug[39m: loadFileContents
+14:25:12 - [34mdebug[39m: loadFileContents
+14:25:12 - [34mdebug[39m: loadFileContents
+14:25:12 - [34mdebug[39m: loadFileContents
+14:25:12 - [34mdebug[39m: loadFileContents
+14:25:12 - [34mdebug[39m: loadFilesContents
+14:25:12 - [31merror[39m: Expected "@", "abstract", "asset", "concept", "enum", "event", "participant", "transaction", comment, end of input, end of line, or whitespace but "p" found. File C:/Users/weisgerb/Documents/Arbeit/02_Praxiseinsatz_Studylab/workspace/mietvertrag/model/model.cto line 21 column 1
+14:26:25 - [32minfo[39m: Using current directory as template folder
+14:26:25 - [32minfo[39m: Loading a default data.json file.
+14:26:25 - [34mdebug[39m: loadFileContents
+14:26:25 - [34mdebug[39m: loadFileBuffer
+14:26:25 - [34mdebug[39m: loadFileContents
+14:26:25 - [34mdebug[39m: loadFileContents
+14:26:25 - [34mdebug[39m: fromDirectory
+14:26:25 - [34mdebug[39m: loadFilesContents
+14:26:25 - [34mdebug[39m: loadFilesContents
+14:26:25 - [34mdebug[39m: loadFilesContents
+14:26:25 - [34mdebug[39m: loadFilesContents
+14:26:25 - [34mdebug[39m: loadFilesContents
+14:26:25 - [34mdebug[39m: loadFilesContents
+14:26:25 - [34mdebug[39m: loadFileContents
+14:26:25 - [34mdebug[39m: fromDirectory
+14:26:25 - [34mdebug[39m: loadFilesContents
+14:26:25 - [34mdebug[39m: loadFilesContents
+14:26:25 - [34mdebug[39m: loadFilesContents
+14:26:25 - [34mdebug[39m: loadFilesContents
+14:26:25 - [34mdebug[39m: loadFilesContents
+14:26:25 - [34mdebug[39m: loadFileContents
+14:26:25 - [34mdebug[39m: loadFileContents
+14:26:25 - [34mdebug[39m: loadFileContents
+14:26:25 - [34mdebug[39m: loadFileContents
+14:26:25 - [34mdebug[39m: loadFileContents
+14:26:25 - [34mdebug[39m: loadFileContents
+14:26:25 - [34mdebug[39m: loadFileContents
+14:26:25 - [34mdebug[39m: loadFilesContents
+14:26:31 - [34mdebug[39m: fromDirectory
+14:26:31 - [34mdebug[39m: loadFileContents
+14:26:31 - [31merror[39m: Cannot read property 'push' of undefined
+14:36:16 - [32minfo[39m: Using current directory as template folder
+14:36:16 - [32minfo[39m: Loading a default text/sample.md file.
+14:36:16 - [34mdebug[39m: loadFileContents
+14:36:16 - [34mdebug[39m: loadFileBuffer
+14:36:16 - [34mdebug[39m: loadFileContents
+14:36:16 - [34mdebug[39m: loadFileContents
+14:36:16 - [34mdebug[39m: fromDirectory
+14:36:16 - [34mdebug[39m: loadFilesContents
+14:36:16 - [34mdebug[39m: loadFilesContents
+14:36:16 - [34mdebug[39m: loadFilesContents
+14:36:16 - [34mdebug[39m: loadFilesContents
+14:36:16 - [34mdebug[39m: loadFilesContents
+14:36:16 - [34mdebug[39m: loadFilesContents
+14:36:16 - [34mdebug[39m: loadFileContents
+14:36:16 - [34mdebug[39m: fromDirectory
+14:36:16 - [34mdebug[39m: loadFilesContents
+14:36:16 - [34mdebug[39m: loadFilesContents
+14:36:16 - [34mdebug[39m: loadFilesContents
+14:36:16 - [34mdebug[39m: loadFilesContents
+14:36:16 - [34mdebug[39m: loadFilesContents
+14:36:16 - [34mdebug[39m: loadFileContents
+14:36:16 - [34mdebug[39m: loadFileContents
+14:36:16 - [34mdebug[39m: loadFileContents
+14:36:16 - [34mdebug[39m: loadFileContents
+14:36:16 - [34mdebug[39m: loadFileContents
+14:36:16 - [34mdebug[39m: loadFilesContents
+14:36:16 - [34mdebug[39m: loadFileContents
+14:36:16 - [34mdebug[39m: loadFileContents
+14:36:21 - [34mdebug[39m: fromDirectory
+14:36:21 - [34mdebug[39m: loadFileContents
+14:36:21 - [31merror[39m: Cannot read property 'push' of undefined
+TypeError: Cannot read property 'push' of undefined
+    at Array.emphasis (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\rules_inline\emphasis.js:23:22)
+    at ParserInline.tokenize (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\parser_inline.js:135:22)
+    at ParserInline.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\parser_inline.js:163:8)
+    at Array.inline (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\rules_core\inline.js:10:23)
+    at Core.process (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\parser_core.js:51:13)
+    at MarkdownIt.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\index.js:523:13)
+    at templateToTokens (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\templatemarkutil.js:187:19)
+    at ParserManager.initParser (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\parsermanager.js:178:33)
+    at ParserManager.buildParser (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\parsermanager.js:192:18)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:231:32
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:16:103)
+    at _next (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:18:194)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+14:39:50 - [32minfo[39m: Using current directory as template folder
+14:39:50 - [32minfo[39m: Loading a default text/sample.md file.
+14:39:50 - [34mdebug[39m: loadFileContents
+14:39:50 - [34mdebug[39m: loadFileBuffer
+14:39:50 - [34mdebug[39m: loadFileContents
+14:39:50 - [34mdebug[39m: loadFileContents
+14:39:50 - [34mdebug[39m: fromDirectory
+14:39:50 - [34mdebug[39m: loadFilesContents
+14:39:50 - [34mdebug[39m: loadFilesContents
+14:39:50 - [34mdebug[39m: loadFilesContents
+14:39:50 - [34mdebug[39m: loadFilesContents
+14:39:50 - [34mdebug[39m: loadFilesContents
+14:39:50 - [34mdebug[39m: loadFilesContents
+14:39:50 - [34mdebug[39m: loadFileContents
+14:39:50 - [34mdebug[39m: fromDirectory
+14:39:50 - [34mdebug[39m: loadFilesContents
+14:39:50 - [34mdebug[39m: loadFilesContents
+14:39:50 - [34mdebug[39m: loadFilesContents
+14:39:50 - [34mdebug[39m: loadFilesContents
+14:39:50 - [34mdebug[39m: loadFilesContents
+14:39:50 - [34mdebug[39m: loadFileContents
+14:39:50 - [34mdebug[39m: loadFileContents
+14:39:50 - [34mdebug[39m: loadFileContents
+14:39:50 - [34mdebug[39m: loadFileContents
+14:39:50 - [34mdebug[39m: loadFileContents
+14:39:50 - [34mdebug[39m: loadFileContents
+14:39:50 - [34mdebug[39m: loadFileContents
+14:39:50 - [34mdebug[39m: loadFilesContents
+14:39:55 - [34mdebug[39m: fromDirectory
+14:39:55 - [34mdebug[39m: loadFileContents
+14:39:55 - [31merror[39m: Cannot read property 'push' of undefined
+TypeError: Cannot read property 'push' of undefined
+    at Array.emphasis (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\rules_inline\emphasis.js:23:22)
+    at ParserInline.tokenize (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\parser_inline.js:135:22)
+    at ParserInline.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\parser_inline.js:163:8)
+    at Array.inline (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\rules_core\inline.js:10:23)
+    at Core.process (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\parser_core.js:51:13)
+    at MarkdownIt.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\index.js:523:13)
+    at templateToTokens (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\templatemarkutil.js:187:19)
+    at ParserManager.initParser (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\parsermanager.js:178:33)
+    at ParserManager.buildParser (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\parsermanager.js:192:18)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:231:32
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:16:103)
+    at _next (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:18:194)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+14:40:43 - [32minfo[39m: Using current directory as template folder
+14:40:43 - [32minfo[39m: Loading a default data.json file.
+14:40:43 - [34mdebug[39m: loadFileContents
+14:40:43 - [34mdebug[39m: loadFileBuffer
+14:40:43 - [34mdebug[39m: loadFileContents
+14:40:43 - [34mdebug[39m: loadFileContents
+14:40:43 - [34mdebug[39m: fromDirectory
+14:40:43 - [34mdebug[39m: loadFilesContents
+14:40:43 - [34mdebug[39m: loadFilesContents
+14:40:43 - [34mdebug[39m: loadFilesContents
+14:40:43 - [34mdebug[39m: loadFilesContents
+14:40:43 - [34mdebug[39m: loadFilesContents
+14:40:43 - [34mdebug[39m: loadFilesContents
+14:40:43 - [34mdebug[39m: loadFileContents
+14:40:43 - [34mdebug[39m: fromDirectory
+14:40:43 - [34mdebug[39m: loadFilesContents
+14:40:43 - [34mdebug[39m: loadFilesContents
+14:40:43 - [34mdebug[39m: loadFilesContents
+14:40:43 - [34mdebug[39m: loadFilesContents
+14:40:43 - [34mdebug[39m: loadFilesContents
+14:40:43 - [34mdebug[39m: loadFileContents
+14:40:43 - [34mdebug[39m: loadFileContents
+14:40:43 - [34mdebug[39m: loadFileContents
+14:40:43 - [34mdebug[39m: loadFileContents
+14:40:43 - [34mdebug[39m: loadFileContents
+14:40:43 - [34mdebug[39m: loadFileContents
+14:40:43 - [34mdebug[39m: loadFileContents
+14:40:43 - [34mdebug[39m: loadFilesContents
+14:40:48 - [34mdebug[39m: fromDirectory
+14:40:48 - [34mdebug[39m: loadFileContents
+14:40:48 - [31merror[39m: Cannot read property 'push' of undefined
+14:50:43 - [32minfo[39m: Using current directory as template folder
+14:50:43 - [32minfo[39m: Loading a default text/sample.md file.
+14:50:43 - [34mdebug[39m: loadFileContents
+14:50:43 - [34mdebug[39m: loadFileBuffer
+14:50:43 - [34mdebug[39m: loadFileContents
+14:50:43 - [34mdebug[39m: loadFileContents
+14:50:43 - [34mdebug[39m: fromDirectory
+14:50:43 - [34mdebug[39m: loadFilesContents
+14:50:43 - [34mdebug[39m: loadFilesContents
+14:50:43 - [34mdebug[39m: loadFilesContents
+14:50:43 - [34mdebug[39m: loadFilesContents
+14:50:43 - [34mdebug[39m: loadFilesContents
+14:50:43 - [34mdebug[39m: loadFilesContents
+14:50:43 - [34mdebug[39m: loadFileContents
+14:50:43 - [34mdebug[39m: fromDirectory
+14:50:43 - [34mdebug[39m: loadFilesContents
+14:50:43 - [34mdebug[39m: loadFilesContents
+14:50:43 - [34mdebug[39m: loadFilesContents
+14:50:43 - [34mdebug[39m: loadFilesContents
+14:50:43 - [34mdebug[39m: loadFilesContents
+14:50:43 - [34mdebug[39m: loadFileContents
+14:50:43 - [34mdebug[39m: loadFileContents
+14:50:43 - [34mdebug[39m: loadFileContents
+14:50:43 - [34mdebug[39m: loadFileContents
+14:50:43 - [34mdebug[39m: loadFileContents
+14:50:43 - [34mdebug[39m: loadFileContents
+14:50:43 - [34mdebug[39m: loadFileContents
+14:50:43 - [34mdebug[39m: loadFilesContents
+14:50:48 - [34mdebug[39m: fromDirectory
+14:50:48 - [34mdebug[39m: loadFileContents
+14:50:48 - [31merror[39m: Cannot read property 'push' of undefined
+TypeError: Cannot read property 'push' of undefined
+    at Array.emphasis (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\rules_inline\emphasis.js:23:22)
+    at ParserInline.tokenize (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\parser_inline.js:135:22)
+    at ParserInline.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\parser_inline.js:163:8)
+    at Array.inline (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\rules_core\inline.js:10:23)
+    at Core.process (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\parser_core.js:51:13)
+    at MarkdownIt.parse (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\markdown-it\lib\index.js:523:13)
+    at templateToTokens (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\templatemarkutil.js:187:19)
+    at ParserManager.initParser (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\parsermanager.js:178:33)
+    at ParserManager.buildParser (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\parsermanager.js:192:18)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:231:32
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:16:103)
+    at _next (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:18:194)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+14:59:05 - [32minfo[39m: Using current directory as template folder
+14:59:05 - [32minfo[39m: Loading a default text/sample.md file.
+14:59:05 - [34mdebug[39m: loadFileContents
+14:59:05 - [34mdebug[39m: loadFileBuffer
+14:59:05 - [34mdebug[39m: loadFileContents
+14:59:05 - [34mdebug[39m: loadFileContents
+14:59:05 - [34mdebug[39m: fromDirectory
+14:59:05 - [34mdebug[39m: loadFilesContents
+14:59:05 - [34mdebug[39m: loadFilesContents
+14:59:05 - [34mdebug[39m: loadFilesContents
+14:59:05 - [34mdebug[39m: loadFilesContents
+14:59:05 - [34mdebug[39m: loadFilesContents
+14:59:05 - [34mdebug[39m: loadFilesContents
+14:59:05 - [34mdebug[39m: loadFileContents
+14:59:05 - [34mdebug[39m: fromDirectory
+14:59:05 - [34mdebug[39m: loadFilesContents
+14:59:05 - [34mdebug[39m: loadFilesContents
+14:59:05 - [34mdebug[39m: loadFilesContents
+14:59:05 - [34mdebug[39m: loadFilesContents
+14:59:05 - [34mdebug[39m: loadFilesContents
+14:59:05 - [34mdebug[39m: loadFileContents
+14:59:05 - [34mdebug[39m: loadFileContents
+14:59:05 - [34mdebug[39m: loadFileContents
+14:59:05 - [34mdebug[39m: loadFileContents
+14:59:05 - [34mdebug[39m: loadFileContents
+14:59:05 - [34mdebug[39m: loadFileContents
+14:59:05 - [34mdebug[39m: loadFileContents
+14:59:05 - [34mdebug[39m: loadFilesContents
+14:59:10 - [34mdebug[39m: fromDirectory
+14:59:10 - [34mdebug[39m: loadFileContents
+14:59:10 - [31merror[39m: Unknown property: vorname File text/grammar.tem.md line -1 column -1
+TemplateException: Unknown property: vorname File text/grammar.tem.md line -1 column -1
+    at _throwTemplateExceptionForElement (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\errorutil.js:118:11)
+    at TypeVisitor.visit (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:113:21)
+    at ValidatedConcept.accept (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\model\typed.js:57:24)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:49:18
+    at Array.forEach (<anonymous>)
+    at Function.visitNodes (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:48:16)
+    at Function.visitChildren (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:37:25)
+    at TypeVisitor.visit (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:161:25)
+    at ValidatedConcept.accept (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\model\typed.js:57:24)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:49:18
+    at Array.forEach (<anonymous>)
+    at Function.visitNodes (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:48:16)
+    at Function.visitChildren (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:37:25)
+    at TypeVisitor.visit (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:275:25)
+    at ValidatedConcept.accept (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\model\typed.js:57:24)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:49:18
+    at Array.forEach (<anonymous>)
+    at Function.visitNodes (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:48:16)
+    at Function.visitChildren (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:37:25)
+    at TypeVisitor.visit (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:271:25)
+    at ValidatedConcept.accept (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\model\typed.js:57:24)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:49:18
+    at Array.forEach (<anonymous>)
+    at Function.visitNodes (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:48:16)
+    at Function.visitChildren (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:37:25)
+    at TypeVisitor.visit (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:275:25)
+    at ValidatedConcept.accept (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\model\typed.js:57:24)
+    at templateMarkTypingGen (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\templatemarkutil.js:130:11)
+    at templateMarkTyping (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\templatemarkutil.js:151:12)
+    at ParserManager.initParser (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\parsermanager.js:180:33)
+    at ParserManager.buildParser (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\parsermanager.js:192:18)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:231:32
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:16:103)
+    at _next (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:18:194)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+15:04:48 - [32minfo[39m: Using current directory as template folder
+15:04:48 - [32minfo[39m: Loading a default text/sample.md file.
+15:04:48 - [34mdebug[39m: loadFileContents
+15:04:48 - [34mdebug[39m: loadFileBuffer
+15:04:48 - [34mdebug[39m: loadFileContents
+15:04:48 - [34mdebug[39m: loadFileContents
+15:04:48 - [34mdebug[39m: fromDirectory
+15:04:48 - [34mdebug[39m: loadFilesContents
+15:04:48 - [34mdebug[39m: loadFilesContents
+15:04:48 - [34mdebug[39m: loadFilesContents
+15:04:48 - [34mdebug[39m: loadFilesContents
+15:04:48 - [34mdebug[39m: loadFilesContents
+15:04:48 - [34mdebug[39m: loadFileContents
+15:04:48 - [34mdebug[39m: loadFilesContents
+15:04:48 - [34mdebug[39m: fromDirectory
+15:04:48 - [34mdebug[39m: loadFilesContents
+15:04:48 - [34mdebug[39m: loadFilesContents
+15:04:48 - [34mdebug[39m: loadFilesContents
+15:04:48 - [34mdebug[39m: loadFilesContents
+15:04:48 - [34mdebug[39m: loadFilesContents
+15:04:48 - [34mdebug[39m: loadFileContents
+15:04:48 - [34mdebug[39m: loadFileContents
+15:04:48 - [34mdebug[39m: loadFileContents
+15:04:48 - [34mdebug[39m: loadFileContents
+15:04:48 - [34mdebug[39m: loadFileContents
+15:04:48 - [34mdebug[39m: loadFileContents
+15:04:48 - [34mdebug[39m: loadFileContents
+15:04:48 - [34mdebug[39m: loadFilesContents
+15:04:57 - [34mdebug[39m: fromDirectory
+15:04:57 - [34mdebug[39m: loadFileContents
+15:04:57 - [31merror[39m: Unknown property: vorname File text/grammar.tem.md line -1 column -1
+TemplateException: Unknown property: vorname File text/grammar.tem.md line -1 column -1
+    at _throwTemplateExceptionForElement (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\errorutil.js:118:11)
+    at TypeVisitor.visit (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:113:21)
+    at ValidatedConcept.accept (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\model\typed.js:57:24)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:49:18
+    at Array.forEach (<anonymous>)
+    at Function.visitNodes (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:48:16)
+    at Function.visitChildren (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:37:25)
+    at TypeVisitor.visit (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:161:25)
+    at ValidatedConcept.accept (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\model\typed.js:57:24)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:49:18
+    at Array.forEach (<anonymous>)
+    at Function.visitNodes (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:48:16)
+    at Function.visitChildren (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:37:25)
+    at TypeVisitor.visit (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:275:25)
+    at ValidatedConcept.accept (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\model\typed.js:57:24)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:49:18
+    at Array.forEach (<anonymous>)
+    at Function.visitNodes (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:48:16)
+    at Function.visitChildren (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:37:25)
+    at TypeVisitor.visit (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:271:25)
+    at ValidatedConcept.accept (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\model\typed.js:57:24)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:49:18
+    at Array.forEach (<anonymous>)
+    at Function.visitNodes (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:48:16)
+    at Function.visitChildren (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:37:25)
+    at TypeVisitor.visit (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\TypeVisitor.js:275:25)
+    at ValidatedConcept.accept (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\concerto-core\lib\model\typed.js:57:24)
+    at templateMarkTypingGen (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\templatemarkutil.js:130:11)
+    at templateMarkTyping (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\templatemarkutil.js:151:12)
+    at ParserManager.initParser (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\parsermanager.js:180:33)
+    at ParserManager.buildParser (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\markdown-template\lib\parsermanager.js:192:18)
+    at C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:231:32
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:16:103)
+    at _next (C:\Users\weisgerb\AppData\Roaming\npm\node_modules\@accordproject\cicero-cli\node_modules\@accordproject\cicero-core\lib\templateloader.js:18:194)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+15:06:00 - [32minfo[39m: Using current directory as template folder
+15:06:00 - [32minfo[39m: Loading a default data.json file.
+15:06:00 - [34mdebug[39m: loadFileContents
+15:06:00 - [34mdebug[39m: loadFileBuffer
+15:06:00 - [34mdebug[39m: loadFileContents
+15:06:00 - [34mdebug[39m: loadFileContents
+15:06:00 - [34mdebug[39m: fromDirectory
+15:06:00 - [34mdebug[39m: loadFilesContents
+15:06:00 - [34mdebug[39m: loadFilesContents
+15:06:00 - [34mdebug[39m: loadFilesContents
+15:06:00 - [34mdebug[39m: loadFilesContents
+15:06:00 - [34mdebug[39m: loadFilesContents
+15:06:00 - [34mdebug[39m: loadFilesContents
+15:06:00 - [34mdebug[39m: loadFileContents
+15:06:00 - [34mdebug[39m: fromDirectory
+15:06:00 - [34mdebug[39m: loadFilesContents
+15:06:00 - [34mdebug[39m: loadFilesContents
+15:06:00 - [34mdebug[39m: loadFilesContents
+15:06:00 - [34mdebug[39m: loadFilesContents
+15:06:00 - [34mdebug[39m: loadFilesContents
+15:06:00 - [34mdebug[39m: loadFileContents
+15:06:00 - [34mdebug[39m: loadFileContents
+15:06:00 - [34mdebug[39m: loadFileContents
+15:06:00 - [34mdebug[39m: loadFileContents
+15:06:00 - [34mdebug[39m: loadFileContents
+15:06:00 - [34mdebug[39m: loadFileContents
+15:06:00 - [34mdebug[39m: loadFileContents
+15:06:00 - [34mdebug[39m: loadFilesContents
+15:06:05 - [34mdebug[39m: fromDirectory
+15:06:05 - [34mdebug[39m: loadFileContents
+15:06:05 - [31merror[39m: Unknown property: vorname File text/grammar.tem.md line -1 column -1
+15:10:11 - [32minfo[39m: Using current directory as template folder
+15:10:11 - [32minfo[39m: Loading a default data.json file.
+15:10:11 - [34mdebug[39m: loadFileContents
+15:10:11 - [34mdebug[39m: loadFileBuffer
+15:10:11 - [34mdebug[39m: loadFileContents
+15:10:11 - [34mdebug[39m: loadFileContents
+15:10:11 - [34mdebug[39m: fromDirectory
+15:10:11 - [34mdebug[39m: loadFilesContents
+15:10:11 - [34mdebug[39m: loadFilesContents
+15:10:11 - [34mdebug[39m: loadFilesContents
+15:10:11 - [34mdebug[39m: loadFilesContents
+15:10:11 - [34mdebug[39m: loadFilesContents
+15:10:11 - [34mdebug[39m: loadFilesContents
+15:10:11 - [34mdebug[39m: loadFileContents
+15:10:11 - [34mdebug[39m: fromDirectory
+15:10:11 - [34mdebug[39m: loadFilesContents
+15:10:11 - [34mdebug[39m: loadFilesContents
+15:10:11 - [34mdebug[39m: loadFilesContents
+15:10:11 - [34mdebug[39m: loadFilesContents
+15:10:11 - [34mdebug[39m: loadFilesContents
+15:10:11 - [34mdebug[39m: loadFileContents
+15:10:11 - [34mdebug[39m: loadFileContents
+15:10:11 - [34mdebug[39m: loadFileContents
+15:10:11 - [34mdebug[39m: loadFileContents
+15:10:11 - [34mdebug[39m: loadFileContents
+15:10:11 - [34mdebug[39m: loadFileContents
+15:10:11 - [34mdebug[39m: loadFileContents
+15:10:11 - [34mdebug[39m: loadFilesContents
+15:10:51 - [34mdebug[39m: fromDirectory
+15:10:51 - [34mdebug[39m: loadFileContents
+15:10:51 - [31merror[39m: Unknown property: vorname File text/grammar.tem.md line -1 column -1
+15:13:59 - [32minfo[39m: Using current directory as template folder
+15:13:59 - [32minfo[39m: Loading a default data.json file.
+15:13:59 - [34mdebug[39m: loadFileContents
+15:13:59 - [34mdebug[39m: loadFileBuffer
+15:13:59 - [34mdebug[39m: loadFileContents
+15:13:59 - [34mdebug[39m: loadFileContents
+15:13:59 - [34mdebug[39m: fromDirectory
+15:13:59 - [34mdebug[39m: loadFilesContents
+15:13:59 - [34mdebug[39m: loadFilesContents
+15:13:59 - [34mdebug[39m: loadFilesContents
+15:13:59 - [34mdebug[39m: loadFilesContents
+15:13:59 - [34mdebug[39m: loadFilesContents
+15:13:59 - [34mdebug[39m: loadFilesContents
+15:13:59 - [34mdebug[39m: loadFileContents
+15:13:59 - [34mdebug[39m: fromDirectory
+15:13:59 - [34mdebug[39m: loadFilesContents
+15:13:59 - [34mdebug[39m: loadFilesContents
+15:13:59 - [34mdebug[39m: loadFilesContents
+15:13:59 - [34mdebug[39m: loadFilesContents
+15:13:59 - [34mdebug[39m: loadFilesContents
+15:13:59 - [34mdebug[39m: loadFileContents
+15:13:59 - [34mdebug[39m: loadFileContents
+15:13:59 - [34mdebug[39m: loadFileContents
+15:13:59 - [34mdebug[39m: loadFileContents
+15:13:59 - [34mdebug[39m: loadFileContents
+15:13:59 - [34mdebug[39m: loadFileContents
+15:13:59 - [34mdebug[39m: loadFileContents
+15:13:59 - [34mdebug[39m: loadFilesContents
+15:14:05 - [34mdebug[39m: fromDirectory
+15:14:05 - [34mdebug[39m: loadFileContents
+15:14:05 - [31merror[39m: Unknown property: vorname File text/grammar.tem.md line -1 column -1
+15:17:48 - [32minfo[39m: Using current directory as template folder
+15:17:48 - [32minfo[39m: Loading a default data.json file.
+15:17:48 - [34mdebug[39m: loadFileContents
+15:17:48 - [34mdebug[39m: loadFileBuffer
+15:17:48 - [34mdebug[39m: loadFileContents
+15:17:48 - [34mdebug[39m: loadFileContents
+15:17:48 - [34mdebug[39m: fromDirectory
+15:17:48 - [34mdebug[39m: loadFilesContents
+15:17:48 - [34mdebug[39m: loadFilesContents
+15:17:48 - [34mdebug[39m: loadFilesContents
+15:17:48 - [34mdebug[39m: loadFilesContents
+15:17:48 - [34mdebug[39m: loadFilesContents
+15:17:48 - [34mdebug[39m: loadFilesContents
+15:17:48 - [34mdebug[39m: loadFileContents
+15:17:48 - [34mdebug[39m: fromDirectory
+15:17:48 - [34mdebug[39m: loadFilesContents
+15:17:48 - [34mdebug[39m: loadFilesContents
+15:17:48 - [34mdebug[39m: loadFilesContents
+15:17:48 - [34mdebug[39m: loadFilesContents
+15:17:48 - [34mdebug[39m: loadFilesContents
+15:17:48 - [34mdebug[39m: loadFileContents
+15:17:48 - [34mdebug[39m: loadFileContents
+15:17:48 - [34mdebug[39m: loadFileContents
+15:17:48 - [34mdebug[39m: loadFileContents
+15:17:48 - [34mdebug[39m: loadFileContents
+15:17:48 - [34mdebug[39m: loadFileContents
+15:17:48 - [34mdebug[39m: loadFileContents
+15:17:48 - [34mdebug[39m: loadFilesContents
+15:17:53 - [34mdebug[39m: fromDirectory
+15:17:53 - [34mdebug[39m: loadFileContents
+15:17:53 - [31merror[39m: Unknown property: vorname File text/grammar.tem.md line -1 column -1
+15:18:24 - [32minfo[39m: Using current directory as template folder
+15:18:24 - [32minfo[39m: Loading a default data.json file.
+15:18:24 - [34mdebug[39m: loadFileContents
+15:18:24 - [34mdebug[39m: loadFileBuffer
+15:18:24 - [34mdebug[39m: loadFileContents
+15:18:24 - [34mdebug[39m: loadFileContents
+15:18:24 - [34mdebug[39m: fromDirectory
+15:18:24 - [34mdebug[39m: loadFilesContents
+15:18:24 - [34mdebug[39m: loadFilesContents
+15:18:24 - [34mdebug[39m: loadFilesContents
+15:18:24 - [34mdebug[39m: loadFilesContents
+15:18:24 - [34mdebug[39m: loadFilesContents
+15:18:24 - [34mdebug[39m: loadFilesContents
+15:18:24 - [34mdebug[39m: loadFileContents
+15:18:24 - [34mdebug[39m: fromDirectory
+15:18:24 - [34mdebug[39m: loadFilesContents
+15:18:24 - [34mdebug[39m: loadFilesContents
+15:18:24 - [34mdebug[39m: loadFilesContents
+15:18:24 - [34mdebug[39m: loadFilesContents
+15:18:24 - [34mdebug[39m: loadFilesContents
+15:18:24 - [34mdebug[39m: loadFileContents
+15:18:24 - [34mdebug[39m: loadFileContents
+15:18:24 - [34mdebug[39m: loadFileContents
+15:18:24 - [34mdebug[39m: loadFileContents
+15:18:24 - [34mdebug[39m: loadFileContents
+15:18:24 - [34mdebug[39m: loadFilesContents
+15:18:24 - [34mdebug[39m: loadFileContents
+15:18:24 - [34mdebug[39m: loadFileContents
+15:18:29 - [34mdebug[39m: fromDirectory
+15:18:29 - [34mdebug[39m: loadFileContents
+15:18:30 - [31merror[39m: Unknown property: vorname File text/grammar.tem.md line -1 column -1
+15:32:26 - [32minfo[39m: Using current directory as template folder
+15:32:26 - [32minfo[39m: Loading a default data.json file.
+15:32:26 - [34mdebug[39m: loadFileContents
+15:32:26 - [34mdebug[39m: loadFileBuffer
+15:32:26 - [34mdebug[39m: loadFileContents
+15:32:26 - [34mdebug[39m: loadFileContents
+15:32:26 - [34mdebug[39m: fromDirectory
+15:32:26 - [34mdebug[39m: loadFilesContents
+15:32:26 - [34mdebug[39m: loadFilesContents
+15:32:26 - [34mdebug[39m: loadFilesContents
+15:32:26 - [34mdebug[39m: loadFilesContents
+15:32:26 - [34mdebug[39m: loadFilesContents
+15:32:26 - [34mdebug[39m: loadFilesContents
+15:32:26 - [34mdebug[39m: loadFileContents
+15:32:26 - [34mdebug[39m: fromDirectory
+15:32:26 - [34mdebug[39m: loadFilesContents
+15:32:26 - [34mdebug[39m: loadFilesContents
+15:32:26 - [34mdebug[39m: loadFilesContents
+15:32:26 - [34mdebug[39m: loadFilesContents
+15:32:26 - [34mdebug[39m: loadFilesContents
+15:32:26 - [34mdebug[39m: loadFileContents
+15:32:26 - [34mdebug[39m: loadFileContents
+15:32:26 - [34mdebug[39m: loadFileContents
+15:32:26 - [34mdebug[39m: loadFileContents
+15:32:26 - [34mdebug[39m: loadFileContents
+15:32:26 - [34mdebug[39m: loadFileContents
+15:32:26 - [34mdebug[39m: loadFileContents
+15:32:26 - [34mdebug[39m: loadFilesContents
+15:32:31 - [34mdebug[39m: fromDirectory
+15:32:31 - [34mdebug[39m: loadFileContents
+15:32:32 - [31merror[39m: Unknown property: vorname File text/grammar.tem.md line -1 column -1
+15:33:02 - [32minfo[39m: Using current directory as template folder
+15:33:02 - [32minfo[39m: Loading a default data.json file.
+15:33:02 - [34mdebug[39m: loadFileContents
+15:33:02 - [34mdebug[39m: loadFileBuffer
+15:33:02 - [34mdebug[39m: loadFileContents
+15:33:02 - [34mdebug[39m: loadFileContents
+15:33:02 - [34mdebug[39m: fromDirectory
+15:33:02 - [34mdebug[39m: loadFilesContents
+15:33:02 - [34mdebug[39m: loadFilesContents
+15:33:02 - [34mdebug[39m: loadFilesContents
+15:33:02 - [34mdebug[39m: loadFilesContents
+15:33:02 - [34mdebug[39m: loadFilesContents
+15:33:02 - [34mdebug[39m: loadFileContents
+15:33:02 - [34mdebug[39m: loadFilesContents
+15:33:02 - [34mdebug[39m: fromDirectory
+15:33:02 - [34mdebug[39m: loadFilesContents
+15:33:02 - [34mdebug[39m: loadFilesContents
+15:33:02 - [34mdebug[39m: loadFilesContents
+15:33:02 - [34mdebug[39m: loadFilesContents
+15:33:02 - [34mdebug[39m: loadFilesContents
+15:33:02 - [34mdebug[39m: loadFileContents
+15:33:02 - [34mdebug[39m: loadFileContents
+15:33:02 - [34mdebug[39m: loadFileContents
+15:33:02 - [34mdebug[39m: loadFileContents
+15:33:02 - [34mdebug[39m: loadFileContents
+15:33:02 - [34mdebug[39m: loadFileContents
+15:33:02 - [34mdebug[39m: loadFileContents
+15:33:02 - [34mdebug[39m: loadFilesContents
+15:33:06 - [34mdebug[39m: fromDirectory
+15:33:06 - [34mdebug[39m: loadFileContents
+15:33:06 - [31merror[39m: Unknown property: vorname File text/grammar.tem.md line -1 column -1
+15:40:32 - [32minfo[39m: Using current directory as template folder
+15:40:32 - [32minfo[39m: Loading a default data.json file.
+15:40:32 - [34mdebug[39m: loadFileContents
+15:40:32 - [34mdebug[39m: loadFileBuffer
+15:40:32 - [34mdebug[39m: loadFileContents
+15:40:32 - [34mdebug[39m: loadFileContents
+15:40:32 - [34mdebug[39m: fromDirectory
+15:40:32 - [34mdebug[39m: loadFilesContents
+15:40:32 - [34mdebug[39m: loadFilesContents
+15:40:32 - [34mdebug[39m: loadFilesContents
+15:40:32 - [34mdebug[39m: loadFilesContents
+15:40:32 - [34mdebug[39m: loadFilesContents
+15:40:32 - [34mdebug[39m: loadFileContents
+15:40:32 - [34mdebug[39m: loadFilesContents
+15:40:32 - [34mdebug[39m: fromDirectory
+15:40:32 - [34mdebug[39m: loadFilesContents
+15:40:32 - [34mdebug[39m: loadFilesContents
+15:40:32 - [34mdebug[39m: loadFilesContents
+15:40:32 - [34mdebug[39m: loadFilesContents
+15:40:32 - [34mdebug[39m: loadFilesContents
+15:40:32 - [34mdebug[39m: loadFileContents
+15:40:32 - [34mdebug[39m: loadFileContents
+15:40:32 - [34mdebug[39m: loadFileContents
+15:40:32 - [34mdebug[39m: loadFileContents
+15:40:32 - [34mdebug[39m: loadFileContents
+15:40:32 - [34mdebug[39m: loadFileContents
+15:40:32 - [34mdebug[39m: loadFileContents
+15:40:32 - [34mdebug[39m: loadFilesContents
+15:40:38 - [34mdebug[39m: fromDirectory
+15:40:38 - [34mdebug[39m: loadFileContents
+15:40:38 - [31merror[39m: Unknown property: vorname File text/grammar.tem.md line -1 column -1
+15:41:58 - [32minfo[39m: Using current directory as template folder
+15:41:58 - [32minfo[39m: Loading a default data.json file.
+15:41:58 - [34mdebug[39m: loadFileContents
+15:41:58 - [34mdebug[39m: loadFileBuffer
+15:41:58 - [34mdebug[39m: loadFileContents
+15:41:58 - [34mdebug[39m: loadFileContents
+15:41:58 - [34mdebug[39m: fromDirectory
+15:41:58 - [34mdebug[39m: loadFilesContents
+15:41:58 - [34mdebug[39m: loadFilesContents
+15:41:58 - [34mdebug[39m: loadFilesContents
+15:41:58 - [34mdebug[39m: loadFilesContents
+15:41:58 - [34mdebug[39m: loadFilesContents
+15:41:58 - [34mdebug[39m: loadFilesContents
+15:41:58 - [34mdebug[39m: loadFileContents
+15:41:58 - [34mdebug[39m: fromDirectory
+15:41:58 - [34mdebug[39m: loadFilesContents
+15:41:58 - [34mdebug[39m: loadFilesContents
+15:41:58 - [34mdebug[39m: loadFilesContents
+15:41:58 - [34mdebug[39m: loadFilesContents
+15:41:58 - [34mdebug[39m: loadFilesContents
+15:41:58 - [34mdebug[39m: loadFilesContents
+15:41:58 - [34mdebug[39m: loadFileContents
+15:41:58 - [34mdebug[39m: loadFileContents
+15:41:58 - [34mdebug[39m: loadFileContents
+15:41:58 - [34mdebug[39m: loadFileContents
+15:41:58 - [34mdebug[39m: loadFileContents
+15:41:58 - [34mdebug[39m: loadFileContents
+15:41:58 - [34mdebug[39m: loadFileContents
+15:42:04 - [34mdebug[39m: fromDirectory
+15:42:04 - [34mdebug[39m: loadFileContents
+15:42:04 - [34mdebug[39m: fromDirectory
+15:42:04 - [34mdebug[39m: fromDirectory
+15:42:04 - [34mdebug[39m: loadFilesContents
+15:42:04 - [34mdebug[39m: loadFilesContents
+15:42:04 - [34mdebug[39m: loadFilesContents
+15:42:04 - [34mdebug[39m: loadFilesContents
+15:42:04 - [34mdebug[39m: loadFilesContents
+15:42:04 - [34mdebug[39m: loadFileContents
+15:42:04 - [34mdebug[39m: loadFilesContents
+15:42:05 - [31merror[39m: Type error (at file logic/logic.ergo line 20 col 28). This operator received unexpected arguments of type `String'  and `RentalParty'.
+    return antwort{ output: "Hello " ++ contract.mieter ++ " Du hast mir noch nicht die Miete gezahlt. Ich Erwarte bis nächste Woche €" ++ request.pay}
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^                                                                                                   
+15:42:38 - [32minfo[39m: Using current directory as template folder
+15:42:38 - [32minfo[39m: Loading a default data.json file.
+15:42:38 - [34mdebug[39m: loadFileContents
+15:42:38 - [34mdebug[39m: loadFileBuffer
+15:42:38 - [34mdebug[39m: loadFileContents
+15:42:38 - [34mdebug[39m: loadFileContents
+15:42:38 - [34mdebug[39m: fromDirectory
+15:42:38 - [34mdebug[39m: loadFilesContents
+15:42:38 - [34mdebug[39m: loadFilesContents
+15:42:38 - [34mdebug[39m: loadFilesContents
+15:42:38 - [34mdebug[39m: loadFilesContents
+15:42:38 - [34mdebug[39m: loadFilesContents
+15:42:38 - [34mdebug[39m: loadFilesContents
+15:42:38 - [34mdebug[39m: loadFileContents
+15:42:38 - [34mdebug[39m: fromDirectory
+15:42:38 - [34mdebug[39m: loadFilesContents
+15:42:38 - [34mdebug[39m: loadFilesContents
+15:42:38 - [34mdebug[39m: loadFilesContents
+15:42:38 - [34mdebug[39m: loadFilesContents
+15:42:38 - [34mdebug[39m: loadFilesContents
+15:42:38 - [34mdebug[39m: loadFileContents
+15:42:38 - [34mdebug[39m: loadFileContents
+15:42:38 - [34mdebug[39m: loadFileContents
+15:42:38 - [34mdebug[39m: loadFileContents
+15:42:38 - [34mdebug[39m: loadFileContents
+15:42:38 - [34mdebug[39m: loadFileContents
+15:42:38 - [34mdebug[39m: loadFileContents
+15:42:38 - [34mdebug[39m: loadFilesContents
+15:42:44 - [34mdebug[39m: fromDirectory
+15:42:44 - [34mdebug[39m: loadFileContents
+15:42:44 - [34mdebug[39m: fromDirectory
+15:42:44 - [34mdebug[39m: fromDirectory
+15:42:44 - [34mdebug[39m: loadFilesContents
+15:42:44 - [34mdebug[39m: loadFilesContents
+15:42:44 - [34mdebug[39m: loadFilesContents
+15:42:44 - [34mdebug[39m: loadFilesContents
+15:42:44 - [34mdebug[39m: loadFilesContents
+15:42:44 - [34mdebug[39m: loadFileContents
+15:42:44 - [34mdebug[39m: loadFilesContents
+15:42:45 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"vermieter":{"$class":"org.example.mietvertrag01.RentalParty","vorname":"Hendrik","nachname":"Weisgerber"},"mieter":{"$class":"org.example.mietvertrag01.RentalParty","vorname":"Max","nachname":"Muller"},"erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":true,"erspartes":false,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"0323edd5-5b07-4bc6-b47a-ac628e0209fb"},"contractId":"50b860f9-910d-4ab5-bfcf-7c54a07df2f7"}
+15:42:45 - [31merror[39m: Invalid or missing identifier for Type RentalParty in namespace org.example.mietvertrag01
+15:47:54 - [32minfo[39m: Using current directory as template folder
+15:47:54 - [32minfo[39m: Loading a default data.json file.
+15:47:54 - [34mdebug[39m: loadFileContents
+15:47:54 - [34mdebug[39m: loadFileBuffer
+15:47:54 - [34mdebug[39m: loadFileContents
+15:47:54 - [34mdebug[39m: loadFileContents
+15:47:54 - [34mdebug[39m: fromDirectory
+15:47:54 - [34mdebug[39m: loadFilesContents
+15:47:54 - [34mdebug[39m: loadFilesContents
+15:47:54 - [34mdebug[39m: loadFilesContents
+15:47:54 - [34mdebug[39m: loadFilesContents
+15:47:54 - [34mdebug[39m: loadFilesContents
+15:47:54 - [34mdebug[39m: loadFileContents
+15:47:54 - [34mdebug[39m: loadFilesContents
+15:47:54 - [34mdebug[39m: fromDirectory
+15:47:54 - [34mdebug[39m: loadFilesContents
+15:47:54 - [34mdebug[39m: loadFilesContents
+15:47:54 - [34mdebug[39m: loadFilesContents
+15:47:54 - [34mdebug[39m: loadFilesContents
+15:47:54 - [34mdebug[39m: loadFilesContents
+15:47:54 - [34mdebug[39m: loadFileContents
+15:47:54 - [34mdebug[39m: loadFileContents
+15:47:54 - [34mdebug[39m: loadFileContents
+15:47:54 - [34mdebug[39m: loadFileContents
+15:47:54 - [34mdebug[39m: loadFileContents
+15:47:54 - [34mdebug[39m: loadFileContents
+15:47:54 - [34mdebug[39m: loadFileContents
+15:47:54 - [34mdebug[39m: loadFilesContents
+15:48:01 - [34mdebug[39m: fromDirectory
+15:48:01 - [34mdebug[39m: loadFileContents
+15:48:01 - [34mdebug[39m: fromDirectory
+15:48:01 - [34mdebug[39m: fromDirectory
+15:48:01 - [34mdebug[39m: loadFilesContents
+15:48:01 - [34mdebug[39m: loadFilesContents
+15:48:01 - [34mdebug[39m: loadFilesContents
+15:48:01 - [34mdebug[39m: loadFilesContents
+15:48:01 - [34mdebug[39m: loadFilesContents
+15:48:01 - [34mdebug[39m: loadFileContents
+15:48:01 - [34mdebug[39m: loadFilesContents
+15:48:02 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"vermieter":{"$class":"org.example.mietvertrag01.RentalParty","partyId":"Hendrik","nachname":"Weisgerber"},"mieter":{"$class":"org.example.mietvertrag01.RentalParty","partyId":"Max","nachname":"Muller"},"erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":true,"erspartes":false,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"0323edd5-5b07-4bc6-b47a-ac628e0209fb"},"contractId":"50b860f9-910d-4ab5-bfcf-7c54a07df2f7"}
+15:48:02 - [31merror[39m: Instance org.example.mietvertrag01.RentalParty#Hendrik missing required field vorname
+15:48:31 - [32minfo[39m: Using current directory as template folder
+15:48:31 - [32minfo[39m: Loading a default data.json file.
+15:48:31 - [34mdebug[39m: loadFileContents
+15:48:31 - [34mdebug[39m: loadFileBuffer
+15:48:31 - [34mdebug[39m: loadFileContents
+15:48:31 - [34mdebug[39m: loadFileContents
+15:48:31 - [34mdebug[39m: fromDirectory
+15:48:31 - [34mdebug[39m: loadFilesContents
+15:48:31 - [34mdebug[39m: loadFilesContents
+15:48:31 - [34mdebug[39m: loadFilesContents
+15:48:31 - [34mdebug[39m: loadFilesContents
+15:48:31 - [34mdebug[39m: loadFilesContents
+15:48:31 - [34mdebug[39m: loadFilesContents
+15:48:31 - [34mdebug[39m: loadFileContents
+15:48:31 - [34mdebug[39m: fromDirectory
+15:48:31 - [34mdebug[39m: loadFilesContents
+15:48:31 - [34mdebug[39m: loadFilesContents
+15:48:31 - [34mdebug[39m: loadFilesContents
+15:48:31 - [34mdebug[39m: loadFilesContents
+15:48:31 - [34mdebug[39m: loadFilesContents
+15:48:31 - [34mdebug[39m: loadFileContents
+15:48:31 - [34mdebug[39m: loadFileContents
+15:48:31 - [34mdebug[39m: loadFileContents
+15:48:31 - [34mdebug[39m: loadFileContents
+15:48:31 - [34mdebug[39m: loadFileContents
+15:48:31 - [34mdebug[39m: loadFileContents
+15:48:31 - [34mdebug[39m: loadFileContents
+15:48:31 - [34mdebug[39m: loadFilesContents
+15:48:37 - [34mdebug[39m: fromDirectory
+15:48:37 - [34mdebug[39m: loadFileContents
+15:48:37 - [34mdebug[39m: fromDirectory
+15:48:37 - [34mdebug[39m: fromDirectory
+15:48:37 - [34mdebug[39m: loadFilesContents
+15:48:37 - [34mdebug[39m: loadFilesContents
+15:48:37 - [34mdebug[39m: loadFilesContents
+15:48:37 - [34mdebug[39m: loadFilesContents
+15:48:37 - [34mdebug[39m: loadFilesContents
+15:48:37 - [34mdebug[39m: loadFileContents
+15:48:37 - [34mdebug[39m: loadFilesContents
+15:48:38 - [31merror[39m: Type error (at file logic/logic.ergo line 20 col 40). The field `vorname' does not exist in type `RentalParty'
+    return antwort{ output: "Hello " ++ contract.mieter.vorname ++ " Du hast mir noch nicht die Miete gezahlt. Ich Erwarte bis nächste Woche €" ++ request.pay}
+                                        ^^^^^^^^^^^^^^^^^^^^^^^                                                                                                   
+15:48:56 - [32minfo[39m: Using current directory as template folder
+15:48:56 - [32minfo[39m: Loading a default data.json file.
+15:48:56 - [34mdebug[39m: loadFileContents
+15:48:56 - [34mdebug[39m: loadFileBuffer
+15:48:56 - [34mdebug[39m: loadFileContents
+15:48:56 - [34mdebug[39m: loadFileContents
+15:48:56 - [34mdebug[39m: fromDirectory
+15:48:56 - [34mdebug[39m: loadFilesContents
+15:48:56 - [34mdebug[39m: loadFilesContents
+15:48:56 - [34mdebug[39m: loadFilesContents
+15:48:56 - [34mdebug[39m: loadFilesContents
+15:48:56 - [34mdebug[39m: loadFilesContents
+15:48:56 - [34mdebug[39m: loadFilesContents
+15:48:56 - [34mdebug[39m: loadFileContents
+15:48:56 - [34mdebug[39m: fromDirectory
+15:48:56 - [34mdebug[39m: loadFilesContents
+15:48:56 - [34mdebug[39m: loadFilesContents
+15:48:56 - [34mdebug[39m: loadFilesContents
+15:48:56 - [34mdebug[39m: loadFilesContents
+15:48:56 - [34mdebug[39m: loadFilesContents
+15:48:56 - [34mdebug[39m: loadFileContents
+15:48:56 - [34mdebug[39m: loadFileContents
+15:48:56 - [34mdebug[39m: loadFileContents
+15:48:56 - [34mdebug[39m: loadFileContents
+15:48:56 - [34mdebug[39m: loadFileContents
+15:48:56 - [34mdebug[39m: loadFileContents
+15:48:56 - [34mdebug[39m: loadFileContents
+15:48:56 - [34mdebug[39m: loadFilesContents
+15:49:06 - [34mdebug[39m: fromDirectory
+15:49:06 - [34mdebug[39m: loadFileContents
+15:49:06 - [34mdebug[39m: fromDirectory
+15:49:06 - [34mdebug[39m: fromDirectory
+15:49:06 - [34mdebug[39m: loadFilesContents
+15:49:06 - [34mdebug[39m: loadFilesContents
+15:49:06 - [34mdebug[39m: loadFilesContents
+15:49:06 - [34mdebug[39m: loadFilesContents
+15:49:06 - [34mdebug[39m: loadFilesContents
+15:49:06 - [34mdebug[39m: loadFileContents
+15:49:06 - [34mdebug[39m: loadFilesContents
+15:49:09 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"vermieter":{"$class":"org.example.mietvertrag01.RentalParty","partyId":"Hendrik","nachname":"Weisgerber"},"mieter":{"$class":"org.example.mietvertrag01.RentalParty","partyId":"Max","nachname":"Muller"},"erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":true,"erspartes":false,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"0323edd5-5b07-4bc6-b47a-ac628e0209fb"},"contractId":"50b860f9-910d-4ab5-bfcf-7c54a07df2f7"}
+15:49:09 - [34mdebug[39m: Engine processing clause formula_34a3cdb8027c6746234b097190650b18b0615cce8fd482971b9f83d68e49d104 with state org.accordproject.cicero.contract.AccordContractState
+15:49:09 - [34mdebug[39m: Calling eval with context [object Object]
+15:49:09 - [32minfo[39m: Mietvertrag
+====
+
+**Ich**"Hendrik" "Weisgerber" vermiete meine *Wohnung* "Boeblinger Strasse 10" "Boeblingen" "77777" "Bonn" "Bonn" "Germany" an "Max" "Muller" fuer den Zeitraum von 08/20/2020 bis 08/20/2021 fuer einen ***Monatlichen*** preis von 400.0 EUR.
+Mieter kann nicht zahlen
+{{%"Mieter kann nicht zahlen"%}}
+selbst die Sparbüchse ist leer
+
+Payment
+----
+
+{{#clause paymentClause}}
+Der mieter muss dem vermieter die "vierhundert" (400.0 EUR) "überweisen".
+{{/clause}}
+15:50:48 - [32minfo[39m: Using current directory as template folder
+15:50:48 - [32minfo[39m: Loading a default data.json file.
+15:50:48 - [34mdebug[39m: loadFileContents
+15:50:48 - [34mdebug[39m: loadFileBuffer
+15:50:48 - [34mdebug[39m: loadFileContents
+15:50:48 - [34mdebug[39m: loadFileContents
+15:50:48 - [34mdebug[39m: fromDirectory
+15:50:48 - [34mdebug[39m: loadFilesContents
+15:50:48 - [34mdebug[39m: loadFilesContents
+15:50:48 - [34mdebug[39m: loadFilesContents
+15:50:48 - [34mdebug[39m: loadFilesContents
+15:50:48 - [34mdebug[39m: loadFilesContents
+15:50:48 - [34mdebug[39m: loadFilesContents
+15:50:48 - [34mdebug[39m: loadFileContents
+15:50:48 - [34mdebug[39m: fromDirectory
+15:50:48 - [34mdebug[39m: loadFilesContents
+15:50:48 - [34mdebug[39m: loadFilesContents
+15:50:48 - [34mdebug[39m: loadFilesContents
+15:50:48 - [34mdebug[39m: loadFilesContents
+15:50:48 - [34mdebug[39m: loadFilesContents
+15:50:48 - [34mdebug[39m: loadFileContents
+15:50:48 - [34mdebug[39m: loadFileContents
+15:50:48 - [34mdebug[39m: loadFileContents
+15:50:48 - [34mdebug[39m: loadFileContents
+15:50:48 - [34mdebug[39m: loadFileContents
+15:50:48 - [34mdebug[39m: loadFileContents
+15:50:48 - [34mdebug[39m: loadFileContents
+15:50:48 - [34mdebug[39m: loadFilesContents
+15:50:58 - [34mdebug[39m: fromDirectory
+15:50:58 - [34mdebug[39m: loadFileContents
+15:50:58 - [34mdebug[39m: fromDirectory
+15:50:58 - [34mdebug[39m: fromDirectory
+15:50:58 - [34mdebug[39m: loadFilesContents
+15:50:58 - [34mdebug[39m: loadFilesContents
+15:50:58 - [34mdebug[39m: loadFilesContents
+15:50:58 - [34mdebug[39m: loadFilesContents
+15:50:58 - [34mdebug[39m: loadFilesContents
+15:50:58 - [34mdebug[39m: loadFileContents
+15:50:58 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: Setting clause data: {"$class":"org.example.mietvertrag01.MyContract","address":{"$class":"org.accordproject.address.PostalAddress","streetAddress":"Boeblinger Strasse 10","postalCode":"Boeblingen","postOfficeBoxNumber":"77777","addressRegion":"Bonn","addressLocality":"Bonn","addressCountry":"Germany"},"vermieter":{"$class":"org.example.mietvertrag01.RentalParty","partyId":"Hendrik","nachname":"Weisgerber"},"mieter":{"$class":"org.example.mietvertrag01.RentalParty","partyId":"Max","nachname":"Muller"},"erstes_datum":"2020-08-20T00:00:00.000+02:00","zweites_datum":"2021-08-20T00:00:00.000+02:00","preis":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"pleite":true,"erspartes":false,"paymentClause":{"$class":"org.example.mietvertrag01.PaymentClause","amountText":"vierhundert","amount":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":400,"currencyCode":"EUR"},"paymethod":"überweisen","clauseId":"0323edd5-5b07-4bc6-b47a-ac628e0209fb"},"contractId":"50b860f9-910d-4ab5-bfcf-7c54a07df2f7"}
+15:50:59 - [34mdebug[39m: Engine processing clause formula_34a3cdb8027c6746234b097190650b18b0615cce8fd482971b9f83d68e49d104 with state org.accordproject.cicero.contract.AccordContractState
+15:50:59 - [34mdebug[39m: Calling eval with context [object Object]
+15:50:59 - [32minfo[39m: Mietvertrag
+====
+
+**Ich**"Hendrik" "Weisgerber" vermiete meine *Wohnung* "Boeblinger Strasse 10" "Boeblingen" "77777" "Bonn" "Bonn" "Germany" an "Max" "Muller" fuer den Zeitraum von 08/20/2020 bis 08/20/2021 fuer einen ***Monatlichen*** preis von 400.0 EUR.
+Mieter kann nicht zahlen
+{{%"Mieter kann nicht zahlen"%}}
+selbst die Sparbüchse ist leer
+
+Payment
+----
+
+{{#clause paymentClause}}
+Der mieter muss dem vermieter die "vierhundert" (400.0 EUR) "überweisen".
+{{/clause}}

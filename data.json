@@ -1,7 +1,5 @@
 {
   "$class": "org.example.mietvertrag01.MyContract",
-  "contractId": "e96ee4e9-a3b6-44e9-96c5-b3160f249877",
-
   "address": {
     "$class": "org.accordproject.address.PostalAddress",
     "streetAddress": "Boeblinger Strasse 10",
@@ -11,7 +9,16 @@
     "addressLocality": "Bonn",
     "addressCountry": "Germany"
   },
-  "mieter": "Max",
+  "vermieter": {
+    "$class":"org.example.mietvertrag01.RentalParty",
+    "partyId": "Hendrik",
+    "nachname": "Weisgerber"
+  },
+  "mieter": {
+    "$class":"org.example.mietvertrag01.RentalParty",
+    "partyId": "Max",
+    "nachname": "Muller"
+  },
   "erstes_datum": "2020-08-20T00:00:00.000+02:00",
   "zweites_datum": "2021-08-20T00:00:00.000+02:00",
   "preis": {
@@ -20,16 +27,17 @@
     "currencyCode": "EUR"
   },
   "pleite": true,
-  "erspartes": true,
-  "paymentClause":{
-    "$class":"org.example.mietvertrag01.PaymentClause",
-    "clauseId": "3c72cd74-cbcf-49f7-b7f0-314501961b76",
-    "paymethod": "überweisen" ,
+  "erspartes": false,
+  "paymentClause": {
+    "$class": "org.example.mietvertrag01.PaymentClause",
     "amountText": "vierhundert",
-    "amount":{
+    "amount": {
       "$class": "org.accordproject.money.MonetaryAmount",
       "doubleValue": 400,
       "currencyCode": "EUR"
-    } 
-  }
+    },
+    "paymethod": "überweisen",
+    "clauseId": "0323edd5-5b07-4bc6-b47a-ac628e0209fb"
+  },
+  "contractId": "50b860f9-910d-4ab5-bfcf-7c54a07df2f7"
 }

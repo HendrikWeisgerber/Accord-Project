@@ -5,13 +5,13 @@
     "author": "Hendrik Weisgerber",
     "accordproject": {
         "template": "contract",
-        "cicero": "^0.20.3",
+        "cicero": "^0.21.3",
         "runtime": "ergo"
     },
     "devDependencies": {
         "cucumber": "^5.1.0",
         "chai": "4.2.0",
-        "@accordproject/cicero-cli": "^0.20.3"
+        "@accordproject/cicero-cli": "^0.21.3"
     },
     "scripts": {
         "test": "cucumber-js test -r .cucumber.js"

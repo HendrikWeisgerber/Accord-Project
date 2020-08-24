@@ -17,6 +17,6 @@ namespace org.example.mietvertrag01
 contract MyLogic over MyContract {
   // Simple Clause
   clause mietvertrag01(request : anforderung) : antwort {
-    return antwort{ output: "Hello " ++ contract.mieter ++ " Du hast mir noch nicht die Miete gezahlt. Ich Erwarte bis nächste Woche €" ++ request.pay}
+    return antwort{ output: "Hello " ++ contract.mieter.partyId ++ " Du hast mir noch nicht die Miete gezahlt. Ich Erwarte bis nächste Woche €" ++ request.pay}
   }
 }
